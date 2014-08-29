@@ -1,4 +1,4 @@
-itemno;title;description;gallay title;gallay description
+itemno;title;description;gallay-title;gallay-description
 101000-23;;;Schildband, Weitpanzer diamantiert, 925;Identitätsarmband mit Muster, diamantiert
 101001-25;;hochwertiges Schmuckstück in feinster Juwelierqualität mit einem kleinen Engelsflügel als Abschluss, Öse bei 23cm und 25cm, Der Engelsflügel gilt landesweit als Schutzsymbol!;Fußkette Panzer Engelflügel, Silber 925;Öse bei 23cm und 25cm, Ende Engelsflügel  16x6mm
 101003-19;;;Armband, Panzerkette flach, Silber 925;2x diamantiert, sehr flache Kette, Dicke nur 1mm, Breite 2,8mm
@@ -631,7 +631,7 @@ itemno;title;description;gallay title;gallay description
 90162;;;Anhänger, Vogel, Silber 925;stilisierter Vogel, Oberfläche micro pave bzw. micro settings mit vielen Zirkonias, anlaufgeschützt rhodiniert
 90165;;V-förmiger Ohrstecker, ein Steg matt und der andere gehämmert, hält in der Mitte einen kleinen Zirkonia, Ein zeitloses Schmuckstück für viele Gelegenheiten!;Stecker, matt-glzd Zirkonia, Silber 925;-
 90166;;Dieser Anhänger ist ein MUSS für jeden Fußballfan! detailgetreuer Anhänger Fußball, Oberfläche glänzend, Schon rechtzeitig zur Fußball WM 2014 einen tollen Fan-Artikel verschenken!;Anhänger, Fußball mit Öse, Silber 925;glänzende Oberfläche
-90167;;Keine Angst, dieses Tier beißt nicht! Ohrstecker Krokodil, Oberfläche glänzend; Ein besonderes Geschenk für einen besonderen Menschen!;Stecker, Krokodil, Silber 925;-
+90167;;Keine Angst, dieses Tier beißt nicht! Ohrstecker Krokodil, Oberfläche glänzend. Ein besonderes Geschenk für einen besonderen Menschen!;Stecker, Krokodil, Silber 925;-
 90169;;hochwertig gearbeitetes Creolenpaar mit Klappscharnier in bester Juwelierqualität, Muster umlaufend, Oberfläche streifig sehr schön gehämmert, hochglänzend anlaufgeschützt rhodiniert, Ein tolles Schmuckstück für die anspruchsvolle DAME!;Creole, 13mm, rhodiniert, Silber 925;Klappscharnier, Muster gehämmert
 90170;;hochwertig gearbeiteter Ohrhänger in feinster Juwelierqualität, wunderschöne Verbindung zweier Bögen, seidenmatt und gehämmert, Ein besonderes Schmuckstück für einen besonderen Anlass.;Brisur gemustert, rhodiniert Silber 925;-
 90171;;hochwertiger Ohrhänger mit filigran gearbeitetem tropfenförmigen Anhänger, Oberfläche anlaufgeschützt rhodiniert, Ein tolles Schmuckstück für viele Gelegenheiten.;Brisur, Tropfen rhodiniert, Silber 925;-
@@ -942,7 +942,7 @@ itemno;title;description;gallay title;gallay description
 90578;;Damit haben Sie Ihre Liebsten immer ganz nahe bei sich! exclusiv gearbeitetes Medaillon Herz zum Aufklappen in bester Juwelierqualität, Vorderseite leicht gehämmert mit Rosen, Rückseite glatt und glänzend, Oberfläche anlaufgeschützt rhodiniert;Anhänger, Medaillon Herz, Silber 925;matt-glänzend, Muster mit 2 Rosen, Rückseite glänzend, Oberfläche anlaufgeschützt rhodiniert
 90580;;exclusiv gearbeitetes Medaillon zum Aufklappen in bester Juwelierqualität, Vorderseite wie ein Bilderrahmen mit Verzierung, Rückseite glatt, Oberfläche auf Hochglanz poliert anlaufgeschützt rhodiniert, Damit haben Sie Ihre Liebsten immer ganz nahe bei sich!;Anhänger, Medaillon oval, Silber 925;glänzend, Vorderseite mit Muster am Rand, Oberfläche anlaufgeschützt rhodiniert
 90582;;hochwertig gearbeiteter Anhänger in bester Juwelierqualität, Erkennungsmarke zum Eingravieren, NAME, ADDRESS, PHONE, massiv Sterling Silver 925, auf Hochglanz poliert, toller Herrenschmuck;Anhänger, Erkennungsmarke, Silber 925;graviert mit: NAME, ADDRESS, PHONE - Silber 925
-90583;;putziger kleiner Silberstecker Engel als Schutzsymbol, Oberfläche glänzend; Schutzengel sind Gestalten des Schutzes und der Fürsorge.;Stecker, kleiner Engel, Silber 925;sehr kleine Stecker
+90583;;putziger kleiner Silberstecker Engel als Schutzsymbol, Oberfläche glänzend. Schutzengel sind Gestalten des Schutzes und der Fürsorge.;Stecker, kleiner Engel, Silber 925;sehr kleine Stecker
 90584;;;Anhänger, Nummer 18, Silber 925;Zahl-Anhänger vollständig mit vielen kleinen Zirkonias besetzt (micro pave bzw. micro settings), Oberfläche anlaufgeschützt rhodiniert
 90585;;Dieser Durchzieher aus 925er Silber hat ein fein gearbeitetes Panzerkettchen an dessen Ende ein kleiner Vogel hängt. Der Ohrschmuck ist sehr filigran gearbeitet und absolut alltagstauglich. Ein tolles Geschenk für Damen, die das Besondere lieben!;Durchzieher, Vogel, Silber 925;Vogel 8x5mm
 90586;;Damit haben Sie Ihre Liebsten immer ganz nahe bei sich! exclusiv gearbeitetes Medaillon zum Aufklappen in bester Juwelierqualität, Vorder- und Rückseite gehämmert und mit eingravierter Blume, Oberfläche anlaufgeschützt rhodiniert;Anhänger, Medaillon oval, Silber 925;matt-glänzend, beidseitig mit Blumenmuster, Oberfläche anlaufgeschützt rhodiniert
@@ -1108,7 +1108,7 @@ itemno;title;description;gallay title;gallay description
 90808;;;Stecker, 8mm Perle Imitat, 925;Kunststoff-Perle weißwachs, Stift eingeklebt
 90811;;zeitlos schöner Ohrschmuck in feinster Qualität, am Ende eines Oval wird ein kleiner Zirkonia gehalten, Ein perfektes Schmuckstück für einen besonderen Anlass!;Brisur, Zirkonia weiß, Silber 925;-
 90812;;Zeitloser Ohrstecker, Kunststoff-Perle weißwachs 12mm mit Stift Silber 925, eingeklebt. Dieser Stecker macht auch das Outfit einer Braut komplett!;Stecker, 12mm Perle Imitat, Silber 925;Kunststoff-Perle weißwachs, Stift eingeklebt
-90813;;putziger kleiner Silberanhänger Engel als Schutzsymbol, Oberfläche glänzend; Schutzengel sind Gestalten des Schutzes und der Fürsorge.;Anhänger, kleiner Engel, Silber 925;Oberfläche glänzend, sehr kleiner Anhänger
+90813;;putziger kleiner Silberanhänger Engel als Schutzsymbol, Oberfläche glänzend. Schutzengel sind Gestalten des Schutzes und der Fürsorge.;Anhänger, kleiner Engel, Silber 925;Oberfläche glänzend, sehr kleiner Anhänger
 90814;;Wunderschöne Silberbrisur als modisches I-Tüpfelchen für kleine DAMEN. offenes Herz mit kleinem Glasstein pink, der Rand ist leicht gerillt;Brisur, Herz Glasstein pink, Silber 925;-
 90815;;Verwöhnen Sie sich doch einmal selbst und belohnen Sie sich mit diesem tollen kleinen Ohrstecker aus 925er Silber! Besonderen Abschluss des offenen Ringes bilden zwei kleine Zirkonia, die fest eingefasst sind. Ein funkelndes Schmuckstück für viele Gelegenheiten! auch als 2. und 3. Ohrpiercing geeignet.;Stecker, Zirkonia, teilmatt, Silber 925;je Seite 2 Zirkonias
 90816;;wunderschöner Ohrstecker Hufeisen, komplett mit kleinen Zirkonia besetzt, Ein toller Glücksbringer!;Stecker, Hufeisen Zirkonia, Silber 925;Oberfläche anlaufgeschützt rhodiniert, mit mehreren Zirkonias gefasst
@@ -1353,7 +1353,7 @@ itemno;title;description;gallay title;gallay description
 91123;;detailgetreue Nachbildung der Märchenfigur Frosch mit kleiner Krone, filigran gearbeiteter Ohrhänger Oberfläche glänzend, Rückseite verbödet (glatt geschlossen), Ein wunderschönes Geschenk für die kleine Prinzessin!;Brisur, Ohrring Frosch, Silber 925;Rückseite verbödet (geschlossen)
 91124;;Dezent aber doch schmückend, weniger ist manchmal mehr! Nasenpiercing mit kleinem gefassten Zirkonia und Spirale, Steglänge 8mm;Nasenstecker, Zirkonia, Silber 925;Zirkonia weiß, Piercing mit Spirale, Steglänge 8mm
 91125;;wunderschöner Ohrhänger mit großem Oval aus Silberdraht, eine Hälfte mit 9 kleinen Zirkonia besetzt, anlaufgeschützt rhodiniert, Ein hochwertiges Schmuckstück für einen besonderen Anlass. Auch toll als Brautschmuck!;Brisur, Zirkonia, rhodiniert, Silber 925;Oberfläche anlaufgeschützt rhodiniert
-91126;;kleiner Ohrstecker Schlange, Oberfläche glänzend; Ein tolles Geschenk, denn die Schlange steht allgemein für Weisheit und Erleuchtung!;Stecker, Schlange-mini, Silber 925;-
+91126;;kleiner Ohrstecker Schlange, Oberfläche glänzend. Ein tolles Geschenk, denn die Schlange steht allgemein für Weisheit und Erleuchtung!;Stecker, Schlange-mini, Silber 925;-
 91127;;kleiner Ohrstecker Kreuz, Oberfläche glänzend und anlaufgeschützt rhodiniert, Ein besonderer Eyecatcher als Ausdruck der Religiösität.;Stecker, kleines Kreuz, Silber 925;Oberfläche anlaufgeschützt rhodiniert
 91128;;Hochwertig gefertigter Anhänger in bester Juwelierqualität, wie ein Bilderrahmen hinten hohl, Vorderseite matt und glänzend, anlaufgeschützt rodiniert, Aussparung zum Durchziehen einer Kette, eventuell kleine Schlangenkette, über der glänzenden Seite, Herz hängt dann leicht schräg;Anhänger, Herz matt-glänzend, 925;Oberfläche anlaufgeschützt rhodiniert
 91129;;Anhänger Buchstabe - X - als Charm zum Einhängen in ein Bettelarmband oder eine Kette, mit vielen Zirkonias besetzt, Karabiner 9x6mm, Anhänger 11mm, Oberfläche anlaufgeschützt rhodiniert, Stilvolles Schmuckstück mit dem die Trägerin oder der Träger seine Initialien präsentieren kann.;Anhänger, Charm Buchstabe X, Silber 925;Buchstabenanhänger als Charm mit vielen Zirkonias besetzt, Oberfläche anlaufgeschützt rhodiniert
@@ -2143,7 +2143,7 @@ itemno;title;description;gallay title;gallay description
 92177;;sehr schönes Kreuz in bester Qualität, die Enden sind jeweils gerillt, hochglänzend, Ein tolles Geschenk zur Kommunion oder Konfirmation.;Anhänger, Kreuz glänzend, Silber 925;-
 92178;;Putziger kleiner Ohrstecker Hase, ein wunderschönes Geschenk zum Geburtstag, Schuleinweihung oder einfach mal zwischendurch;Stecker, kleiner Hase, Silber 925;-
 92179;;Ein putziger Ohrstecker nicht nur für Radprofis! kleines Steckerpaar Fahrrad rechts und links, Oberfläche glänzend;Stecker, Fahrrad rechts-links, 925;-
-92180;;Ohrstecker Schlange, Oberfläche glänzend; Ein tolles Geschenk, denn die Schlange steht allgemein für Weisheit und Erleuchtung!;Stecker, Schlange glänzend, Silber, 925;-
+92180;;Ohrstecker Schlange, Oberfläche glänzend. Ein tolles Geschenk, denn die Schlange steht allgemein für Weisheit und Erleuchtung!;Stecker, Schlange glänzend, Silber, 925;-
 92183;;zeitloser kleiner Ohrstecker mit Zirkonia topas, Oberfläche matt;Stecker, CZ topas, matt, 925;Zrikonia topas
 92185;;sehr kleiner Anhänger 14x8mm, Oberfläche matt mit Zirkonia topas, eine Kette wird direkt durch den Anhänger gezogen;Anhänger, CZ topas, matt, 925;Zirkonia topas
 92188;;;Anhänger, Flügel rhodiniert, Silber 925;matt-glänzend, diamantiert
