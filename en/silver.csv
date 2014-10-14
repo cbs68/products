@@ -302,8 +302,8 @@ itemno;title;description;abe-title;abe-description
 119007-42;Snake and Ball Chain, Silver 925;This is a beautiful and sophisticated snake and ball chain necklace with a symmetrical arrangement of incorporated small balls (2,5 mm). It is high-qualitatively made of silver 925.;Kette, Schlange symmetrisch Silber 925;Kugeln 2,5mm, mit Zwischenteilen symmetrisch angeordnet
 119007-45;Snake and Ball Chain, Silver 925;This is a beautiful and sophisticated snake and ball chain necklace with a symmetrical arrangement of incorporated small balls (2,5 mm). It is high-qualitatively made of silver 925.;Kette, Schlange symmetrisch Silber 925;Kugeln 2,5mm, mit Zwischenteilen symmetrisch angeordnet
 119007-50;Snake and Ball Chain, Silver 925;This is a beautiful and sophisticated snake and ball chain necklace with a symmetrical arrangement of incorporated small balls (2,5 mm). It is high-qualitatively made of silver 925.;Kette, Schlange symmetrisch Silber 925;Kugeln 2,5mm, mit Zwischenteilen symmetrisch angeordnet
-119009-19;;;Armband, Schlange, 3x Spirale, FR, 925;-
-119009-45;;;Kette, Schlange, 3x Spirale, KB , 925;-
+119009-19;;;Armband, Schlange, 3x Spirale, FR, 925;
+119009-45;;;Kette, Schlange, 3x Spirale, KB , 925;
 119010-19;;;Armband, Schlange 5kant diam, Silber 925;diamantiert
 119010-42;Edged Snake Chain, Silver 925;A wonderful edged snake chain with a fine diamond cut. The Silver 925 necklace chain looks great together with one of our pendants in Silver 925. High quality and professional finish!;Kette, Schlange 5kant diam, Silber 925;diamantiert
 119010-45;NECKLACE, SQUARE SNAKE CHAIN, SILVER 925, 45CM;;Kette, Schlange 5kant diam, Silber 925;diamantiert
@@ -327,14 +327,14 @@ itemno;title;description;abe-title;abe-description
 119014-40;Edged Snake Chain, Silver 925;A wonderful edged snake chain with a fine diamond cut that creates a chic pattern of little stars. The oxidised design looks stunning and unique. The Silver 925 necklace chain looks great together with one of our pendants in Silver 925. High quality and professional finish!;Kette, Schlange vierkant, KB, 925;oxydiert (geschwärzt) und diamantiert mit Sternchen-Muster
 119014-42;Edged Snake Chain, Silver 925;A wonderful edged snake chain with a fine diamond cut that creates a chic pattern of little stars. The oxidised design looks stunning and unique. The Silver 925 necklace chain looks great together with one of our pendants in Silver 925. High quality and professional finish!;Kette, Schlange vierkant, KB, 925;oxydiert (geschwärzt) und diamantiert mit Sternchen-Muster
 119014-45;NECKLACE, SQUARE SNAKE CHAIN, SILVER 925, 45CM,  NEW;;Kette, Schlange vierkant, KB, 925;oxydiert (geschwärzt) und diamantiert mit Sternchen-Muster
-119017-27;;;Fußkette, Schlange rund FR, 925;Länge verstellbar von 20, 22, 23, 26 bis 27cm, Glasperlen und 2 Herzen, weiß kristall, auch als Armband verwendbar
+119017-27;;;Fußkette, Schlange rund FR, 925;
 119018-19;BRACELET, Y-SNAKE CHAIN, SILVER 925, 19CM,  NEW;;Armband, Y-Schlangenkette, Silber 925;mehrreihig
 119018-41;NECKLACE, Y-SNAKE CHAIN, SILVER 925, 41CM,  NEW;This three fold snake chain necklace has a chic design with one of the chains wrapped around the others, creating a y-shape for the necklace. The design makes the necklace look stunning and elegant. The equally designed bracelet matches great with this necklace and can be given as a jewellery set present. Silver 925.;Kette, Y-Schlangenkette, Silber 925;mehrreihig
 119019-19;Bracelet, Round Snake Chain, Silver 925;This bracelet is a classic round snake chain bracelet with an oxidised design. Silver 925.;Armband, Schlange rund oxyd-silber, 925;Farbeffekt entsteht durch zusätzliche diagonale Schwärzung (Oxydierung)
 119019-40;NECKLACE, ROUND SNAKE CHAIN, SILVER 925, 40CM;;Kette, Schlange rund oxyd-silber, 925;Farbeffekt entsteht durch zusätzliche diagonale Schwärzung (Oxydierung)
 119019-42;Round Snake Chain, Silver 925;This necklace chain is a classic round snake chain with an oxidised design. The chain is a great complement to be matched with on of our pendants. Silver 925.;Kette, Schlange rund oxyd-silber, 925;Farbeffekt entsteht durch zusätzliche diagonale Schwärzung (Oxydierung)
 119019-45;NECKLACE, ROUND SNAKE CHAIN, SILVER 925, 45CM,  NEW;;Kette, Schlange rund oxyd-silber, 925;Farbeffekt entsteht durch zusätzliche diagonale Schwärzung (Oxydierung)
-119020-45;;;Kette, Y Schlange mit 3 Kettchen, 925;am Y-Teil hängen 3 Kettchen je 1x mit Kegel 95mm lang, mit Olive 75mm lang, mit Kugel 60mm lang
+119020-45;;;Kette, Y Schlange mit 3 Kettchen, 925;
 119022-42;Edged Snake Chain, Silver 925;This edged snake chain necklace has a 4-sided diamond cut and twisted chain parts by turns. Every part is about 1 cm long. Chic and 'edgy'! Silver 925.;Kette Schlange gemustert, Silber 925;abwechselnd Schlangenkette 4-kant mit Musterabschnitten Schlange verdreht, jeweils ca. 1cm lang, diamantiert
 119022-45;Edged Snake Chain, Silver 925;This edged snake chain necklace has a 4-sided diamond cut and twisted chain parts by turns. Every part is about 1 cm long. Chic and 'edgy'! Silver 925.;Kette Schlange gemustert, Silber 925;abwechselnd Schlangenkette 4-kant mit Musterabschnitten Schlange verdreht, jeweils ca. 1cm lang, diamantiert
 119028-19;Bracelet, Beautiful Snake Chain Design, Silver 925;This six fold snake chain bracelet has a chic design with one of the chains wrapped around the others, which makes it look stunning and elegant. The bracelet fits beautifully with the equally designed Y-necklace. Silver 925.;Armband, Y-Schlangenkette, Silber 925;mehrreihig
@@ -354,21 +354,21 @@ itemno;title;description;abe-title;abe-description
 120004-50;thin snake chain, silver 925;This is a beautiful and sophisticated flat snake chain necklace (thickness: 2,5 mm). It is high-qualitatively made of silver 925.;Kette 2,5mm Schlange-flach Silber 925;-
 120007-40;NECKLACE, MAGIC FLEX CHAIN, SILVER 925, 40CM;;Kette, Schlange flach I LOVE YOU, 925;mit Gravur I LOVE YOU und Herz
 120007-42;NECKLACE, MAGIC FLEX CHAIN, SILVER 925, 42CM;;Kette, Schlange flach I LOVE YOU, 925;mit Gravur I LOVE YOU und Herz
-120014-42;;;Kette, Schlange oxyd gedreht, KB 925;gleichmäßig gedreht, Rand sw-oxidiert-diam, innen si-diam
-120014-45;;;Kette, Schlange oxyd gedreht, KB 925;gleichmäßig gedreht, Rand schwarz-oxidiert-diamantiert, innen silber-diamantiert
-120015-42;;;Kette, Schlange flach sw-Laser si, 925;Kette schwarz-oxydiert mit Muster gelasert
-120015-45;;;Kette, Schlange flach sw-Laser si, 925;Kette sw-oxydiert mit Muster gelasert, KB
-120016-45;;;Kette, Schlange flach diam KB, 925;Oberfläche mit Stern-Muster, diamantiert
-120016-50;;;Kette, Schlange flach diam KB, 925;Oberfläche mit Stern-Muster, diamantiert
-120017-17;;;Armband, Schlange flach, oxyd diam, 925;Oberfläche schwarz-oxidiert, diam mit Viereck-Muster, Rückseite oxidiert
-120017-19;;;Armband, Schlange flach, oxyd diam, 925;Oberfläche schwarz-oxidiert, diam mit Viereck-Muster, Rückseite oxidiert
-120017-42;;;Kette, Schlange flach, oxyd diam, 925;Oberfläche schwarz-oxidiert, diam mit Viereck-Muster, Rückseite oxidiert
-120017-45;;;Kette, Schlange flach, oxyd diam, 925;Oberfläche schwarz-oxidiert, diam mit Viereck-Muster, Rückseite oxidiert
-120018-19;;;Armband, Schlange flach, oxyd diam, 925;Rand und Rückseite schwarz-oxidiert, Mitte si-diam, stark glitzernd
-120018-42;;;Kette, Schlange flach, oxyd diam, 925;Rand und Rückseite schwarz-oxidiert, Mitte si-diam, stark glitzernd, KB
-120018-45;;;Kette, Schlange flach, oxyd diam, 925;Rand und Rückseite schwarz-oxidiert, Mitte si-diam, stark glitzernd
-120018-50;;;Kette, Schlange flach, oxyd diam, 925;Rand und Rückseite schwarz-oxidiert, Mitte si-diam, stark glitzernd
-120019-19;;;Armband, Schlange flach, oxyd diam, 925;Rückseite schwarz-oxidiert, Mitte sw-si-diam Linienmuster, stark glitzernd
+120014-42;;;Kette, Schlange oxyd gedreht, KB 925;
+120014-45;;;Kette, Schlange oxyd gedreht, KB 925;
+120015-42;;;Kette, Schlange flach sw-Laser si, 925;
+120015-45;;;Kette, Schlange flach sw-Laser si, 925;
+120016-45;;;Kette, Schlange flach diam KB, 925;
+120016-50;;;Kette, Schlange flach diam KB, 925;
+120017-17;;;Armband, Schlange flach, oxyd diam, 925;
+120017-19;;;Armband, Schlange flach, oxyd diam, 925;
+120017-42;;;Kette, Schlange flach, oxyd diam, 925;
+120017-45;;;Kette, Schlange flach, oxyd diam, 925;
+120018-19;;;Armband, Schlange flach, oxyd diam, 925;
+120018-42;;;Kette, Schlange flach, oxyd diam, 925;
+120018-45;;;Kette, Schlange flach, oxyd diam, 925;
+120018-50;;;Kette, Schlange flach, oxyd diam, 925;
+120019-19;;;Armband, Schlange flach, oxyd diam, 925;
 120020-19;;;Armband, Schlange flach 19cm, Silber 925;sehr flexibles, weich am Handgelenk anliegendes Armband
 120020-42;;;Kette, Schlange flach 42cm, Silber 925;sehr flexible, weich am Hals anliegende Kette
 120020-45;;;Kette, Schlange flach 45cm, Silber 925;sehr flexible, weich am Hals anliegende Kette
@@ -1202,7 +1202,7 @@ itemno;title;description;abe-title;abe-description
 90949;;;Anhänger, Charm Buchstabe H, Silber 925;Buchstabenanhänger als Charm mit vielen Zirkonias besetzt, Oberfläche anlaufgeschützt rhodiniert
 90950;;;Anhänger, Charm Buchstabe I, Silber 925;Buchstabenanhänger als Charm mit vielen Zirkonias besetzt, Oberfläche anlaufgeschützt rhodiniert
 90951;;;Anhänger, Charm Buchstabe J, Silber 925;Buchstabenanhänger als Charm mit vielen Zirkonias besetzt, Oberfläche anlaufgeschützt rhodiniert
-90952;;;Anhänger, Kreuz mit Zirkonia, 9Kt GOLD;kleines zierliches Goldkreuz
+90952;;;Anhänger, Charm Buchstabe K, Silber 925;Buchstabenanhänger als Charm mit vielen Zirkonias besetzt, Oberfläche anlaufgeschützt rhodiniert
 90953;;;Anhänger, Charm Buchstabe L, Silber 925;Buchstabenanhänger als Charm mit vielen Zirkonias besetzt, Oberfläche anlaufgeschützt rhodiniert
 90954;;;Anhänger, Charm Buchstabe M, Silber 925;Buchstabenanhänger als Charm mit vielen Zirkonias besetzt, Oberfläche anlaufgeschützt rhodiniert
 90955;Pendant, Charm, Letter N, Silver 925;This is a fashionable letter charm with a surface that is completely studded of zirconia crystals. The surface of the charm pendant is rhodium plated and therefore protected from tarnishing. A great pendant with a symbolic meaning. Silver 925.;Anhänger, Charm Buchstabe N, Silber 925;Buchstabenanhänger als Charm mit vielen Zirkonias besetzt, Oberfläche anlaufgeschützt rhodiniert
@@ -1934,7 +1934,7 @@ itemno;title;description;abe-title;abe-description
 91793;Stud Earrings, Star, Two Tone, Silver 925;This pair of stud earrings has a beautifully finished surface. The pair of ear studs is made of silver 925 but has a smaller gold-plated star in its middle. The bi-colour design is a great fashion trend of this year's winter season.;Stecker, Stern bicolor, Silber 925;innerer kleiner Stern vergoldet
 91797;Hoop Earrings, Gold Plated, Silver 925;A stunningly beautiful pair of hoop earrings with several wonderful zirconia elements. This pair will be the eye-catcher on any fancy celebrity or even on daily occasional events. The gold plated jewellery is of great quality and looks stunning.;Creole, vergoldet, Zirkonia, Silber 925;Scharniercreole (Klappcreole), vergoldet
 91799;;;Stecker, 3x blau-schwarz, Silber 925;-
-91802;;;Anhänger, Feder, si-hell glzd, 925;-
+91802;;;Anhänger, Feder, si-hell glzd, 925;
 91803;;;Brisur, kleine gelbe Ente, Silber 925;Ente 8x7mm, gelb-rot-schwarz-weiß lackiert
 91805;;;Anhänger, Herz mit Zirkonia, Silber 925;matt-glänzend, Rand  mit Tiefenstruktur
 91807;;;Brisur, matt-glänzend, Silber 925;-
@@ -2644,7 +2644,7 @@ itemno;title;description;abe-title;abe-description
 92848;Stud Earrings, 5mm, Topaz Glass Crystals, Silver 925;This pair of stud earrings has a beautiful design with white and topaz coloured glass crystals. The stud earrings are handmade and each earring is unique. A wonderful accessory for any occasion. Silver 925.;Stecker, 5mm topas-kristall, Silber 925;Glas-Steine, Strass 2-farbig, rund, unterschiedliche Anordung der Steine je Seite
 92849;;;Stecker, 5mm grün-kristall, Silber 925;Glas-Steine, Strass 2-farbig, rund, unterschiedliche Anordung der Steine je Seite
 92851;;;Stecker, 7mm pink-kristall, Silber 925;Glas-Steine, Strass 2-farbig, rund, unterschiedliche Anordung der Steine je Seite
-92852;;;Anhänger Charm Zirkonia-weiß Silber 925;Stein Zirkonia-weiß 5mm in Zarge gefasst, mit Karabiner, Oberfläche anlaufgeschützt rhodiniert
+92852;;;Stecker, 7mm lila-kristall, Silber 925;Glas-Steine, Strass 2-farbig, rund, unterschiedliche Anordung der Steine je Seite
 92853;;;Stecker, 7mm blau-kristall, Silber 925;Glas-Steine, Strass 2-farbig, rund, unterschiedliche Anordung der Steine je Seite
 92854;Stud Earrings, 7mm, Topaz Glass Crystals, Silver 925;This pair of stud earrings has a beautiful design with white and topaz coloured glass crystals. The stud earrings are handmade and each earring is unique. A wonderful accessory for any occasion. Silver 925.;Stecker, 7mm topas-kristall, Silber 925;Glas-Steine, Strass 2-farbig, rund, unterschiedliche Anordung der Steine je Seite
 92855;;;Stecker, 7mm grün-kristall, Silber 925;Glas-Steine, Strass 2-farbig, rund, unterschiedliche Anordung der Steine je Seite
