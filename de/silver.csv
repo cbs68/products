@@ -99,7 +99,7 @@ itemno;title;description;abe-title;abe-description
 105101-45;;;Kette, Stegpanzer 2x diam, Silber 925;2x diamantiert
 105101-50;;;Kette, Stegpanzer 2x diam, Silber 925;2x diamantiert
 105102-19;;;Armband, Stegpanzer, Silber 925;2x diamantiert
-105102-42;;;Kette, Stegpanzer, Silber 925;Zickzack-Muster
+105102-42;;;Kette, Stegpanzer, Silber 925;2x diamantiert
 105102-45;;;Kette, Stegpanzer, Silber 925;2x diamantiert
 105102-50;;;Kette, Stegpanzer, Silber 925;2x diamantiert
 105401-42;;;Kette, S-Panzer diamantiert Silber 925;2x diamantiert
@@ -957,7 +957,7 @@ itemno;title;description;abe-title;abe-description
 90620;;süßer kleiner Anhänger Fisch, Guss massiv, Vorderseite orange emaillier, Ein tolles Geschenk zum Geburtstag, Schuleinweihung oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Fisch orange, 925;massiver Kinderanhänger, Guss
 90621;;dekorativer Silber-Anhänger, die Kunststoff-Perle wachsweiß ist eingefasst in dem spiralförmigen Anhänger;Anhänger, Perle Imitat-weiß Silber 925;-
 90622;;kleiner zarter Ohrstecker Blume mit winzigem Zirkonia als Blüte, Klein aber fein, weniger ist manchmal mehr!;Stecker, Blume mit Zirkonia, Silber 925;-
-90623;;Anhänger mit dem Bildnis des heiligen Christophorus, rund und silber-antik geschwärzt, Schutzpatron der Reisenden, Ein toller Talisman für alle Lieben, die ständig unterwegs sind.;Anhänger, Christophorus-antik Silber 925;religiöse Medaille rund, Schutzpatron der Reisenden, silber-antik
+90623;;Anhänger mit dem Bildnis des heiligen Christophorus, rund und silber-antik geschwärzt, Schutzpatron der Reisenden, Ein toller Talisman für alle Lieben, die ständig unterwegs sind.;Anhänger, Christophorus-antik Silber 92;religiöse Medaille rund, Schutzpatron der Reisenden, silber-antik
 90624;;Herzanhänger für ein ganz persönliches Geschenk. Oberfläche matt, rhodiniert anlaufgeschützt, mit Inschrift -be mine- (sei mein);Anhänger, Herz -be mine- Silber 925;Liebeserklärung - sei mein - rhodiniert
 90625;;;Creole, 8x Zirkonia, Silber 925;mit Klappscharnier, matt-glänzend, rechts-links, 8x Zirkonia
 90626;;Herzanhänger für ein ganz persönliches Geschenk. Oberfläche matt, rhodiniert anlaufgeschützt, mit Inschrift -mad about you- (verrückt nach dir);Anhänger Herz -mad about you- Silber 925;Liebeserklärung - ich bin verrückt nach dir - rhodiniert
@@ -1895,7 +1895,7 @@ itemno;title;description;abe-title;abe-description
 91770i;;Kettenanhänger Buchstabe -I-, Oberfläche glänzend, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe I glzd m. Rand, 925;Oberfläche nachversilbert
 91770l;;;Anhänger, Buchstabe L glzd m. Rand, 925;Oberfläche nachversilbert
 91770n;;;Anhänger, Buchstabe N glzd m. Rand, 925;Oberfläche nachversilbert
-91770o;;Kettenanhänger Buchstabe -O-, Oberfläche glänzend, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe O glzd m. Rand, 925;diamantiert
+91770o;;Kettenanhänger Buchstabe -O-, Oberfläche glänzend, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe O glzd m. Rand, 925;Oberfläche nachversilbert
 91770p;;Kettenanhänger Buchstabe -P-, Oberfläche glänzend, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe P glzd m. Rand, 925;Oberfläche nachversilbert
 91770q;;Kettenanhänger Buchstabe -Q-, Oberfläche glänzend, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe Q, Silber 925;Oberfläche nachversilbert
 91770t;;;Anhänger, Buchstabe T glzd m. Rand, 925;Oberfläche nachversilbert
@@ -2473,7 +2473,7 @@ itemno;title;description;abe-title;abe-description
 92666-62;;;Ring, 8mm, 4x Zirkonia, Silber 925;Oberfläche matt-glänzend, Steine gefasst
 92667-56;;;Ring 6mm, mit 5 Zirkonias, Silber 925;Oberfläche matt-glänzend, Steine gefasst
 92667-58;;;Ring, 6mm, mit 5 Zirkonias, Silber 925;Oberfläche matt-glänzend, Steine gefasst
-92667-60;;;Ring, 6mm, mit 5 Zirkonias, Silber 925;-
+92667-60;;;Ring, 6mm, mit 5 Zirkonias, Silber 925;Oberfläche matt-glänzend, Steine gefasst
 92667-62;;;Ring, 6mm, mit 5 Zirkonias, Silber 925;Oberfläche matt-glänzend, Steine gefasst
 92668-54;;;Ring, 8mm, mit 2 Zirkonias, Silber 925;Oberfläche glänzend, beide Steine gefasst
 92668-56;;;Ring, 8mm, mit 2 Zirkonias, Silber 925;Oberfläche glänzend, beide Steine gefasst
