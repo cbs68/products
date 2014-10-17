@@ -322,7 +322,7 @@ itemno;title;description;abe-title;abe-description
 00668;Clip Earrings, Olive/ Green/ Turquoise;A wonderful pair of clip earrings with silver coloured clips and a olive green marbled surface. The design is fashionable for winter as well as summer season!;Clip, Kiesel, oliv-braun-türkis-marmor;-
 00669;Necklace, Pewter Pendant;This necklace is standing out for its fashionable pewter pendant of finest quality. The detailed design makes the pendant a real eyecatcher on any occasion! The black cord has a silver coloured clasp.;Kette, Anhänger Zinn, Adlerkopf;-
 00670;Necklace, Pewter Pendant;This necklace is standing out for its fashionable pewter pendant of finest quality. The detailed design makes the pendant a real eyecatcher on any occasion! The black cord has a silver coloured clasp.;Kette, Anhänger Zinn, kleine Schlange;-
-00672;Hook Earrings, Pillow Shape, Glossy Black;This is a fashionable pair of hook earrings of a pillow shape, which has a beautiful black and shiny surface. The hooks are sophisticated white-bronze brass hooks. Size: 24x17mm;Ohrhaken, Viereck schwarz-glänzend;Ohrhaken mit dekorativem Hänger -Pillow- in schwarz-glänzend, 24x17mm, Haken aus Messing weißbronce
+00672;Hook Earrings, Pillow Shape, Glossy Black;This is a fashionable pair of hook earrings of a pillow shape, which has a beautiful black and shiny surface. The hooks are sophisticated white-bronze brass hooks. Size: 24x17mm;Ohrhaken, Viereck gewellt schwarz;Ohrhaken mit dekorativem Hänger -Pillow- in schwarz-glänzend, 24x17mm, Haken aus Messing weißbronce
 00674;ear hooks, pillow, white;This is a fashionable pair of hook earrings, with a pillow shape, which has a beautiful white marbled design, a shiny surface and sophisticated white-bronze brass hooks. Size: 24x17mm;Ohrhaken, Viereck gewellt weiß-glänzend;Ohrhaken mit dekorativem Hänger -Pillow- in weiß-glänzend, 24x17mm, Haken aus Messing weißbronce
 00675;ear hooks, pillow, black-grey;This is a fashionable pair of hook earrings, with a pillow shape, which has a beautiful black-gray marbled design, a matte surface and sophisticated white-bronze brass hooks. Size: 24x17mm;Ohrhaken, Viereck gewellt schwarz-grau;Ohrhaken mit dekorativem Hänger -Pillow- in schwarz-grau-marmoriert matt, 24x17mm, Haken aus Messing weißbronce
 00677;ear hooks, pillow, purple;This is a fashionable pair of hook earrings, with a pillow shape, which has a beautiful lilac-glitter design, a shiny surface and sophisticated white-bronze brass hooks. Size: 24x17mm;Ohrhaken, Viereck flieder-perlmutt;Ohrhaken mit dekorativem Hänger -Pillow-   flieder-flitter, 24x17mm, Haken aus Messing weißbronce
@@ -840,13 +840,135 @@ itemno;title;description;abe-title;abe-description
 01486-50;;;Kette, Perlen 8mm schwarz-glänzend;Kunststoff-Perlen, seidenmatt-schwarz
 01486-55;;;Kette, Perlen 8mm schwarz-glänzend;Verschluss vergoldet
 01486-60;;;Kette, Perlen 8mm schwarz-glänzend;Verschluss vergoldet
+01486-70;;;Kette, Perlen 8mm schwarz-glänzend;Verschluss vergoldet
+01486-80;;;Kette, Perlen 8mm schwarz-glänzend;Verschluss vergoldet
+01487-40;;;Kette, Perlen 8mm gelb-glänzend;sommerliches Collier aus 8mm Kunststoffperlen gelb-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01487-42;;;Kette, Perlen 8mm gelb-glänzend;sommerliches Collier aus 8mm Kunststoffperlen gelb-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01487-45;;;Kette, Perle 8mm gelb-glänzend;sommerliches Collier mit 8mm Kunststoff-Perle gelb-glänzend, Verschluss gold-farbig mit Verlängerungskettchen
+01487-50;;;Kette, Perle 8mm gelb-glänzend;sommerliches Collier mit 8mm Kunststoffperlen gelb-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01487-55;;;Kette, Perle 8mm gelb-glänzend;sommerliches Collier mit 8mm Kunststoffperlen gelb-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01487-60;;;Kette, Perle 8mm gelb-glänzend;sommerliches Collier mit 8mm Kunststoffperlen gelb-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01487-70;;;Kette, Perle 8mm gelb-glänzend;sommerliches Collier mit 8mm Kunststoffperlen gelb-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01487-80;;;Kette, Perle 8mm gelb-glänzend;sommerliches Collier mit 8mm Kunststoffperlen gelb-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01488-40;;;Kette, Perlen 8mm hellgrün-glänzend;sommerliches Collier aus 8mm Kunststoff-Perle hellgrün-glänzend, Verschluss silber-farbig mit Verlängerungskettchen
+01488-42;;;Kette, Perlen 8mm hellgrün-glänzend;sommerliches Collier aus 8mm Kunststoff-Perle hellgrün-glänzend, Verschluss silber-farbig mit Verlängerungskettchen
+01488-45;;;Kette, Perlen 8mm hellgrün-glänzend;Perlen 8mm
+01488-50;;;Kette, Perlen 8mm hellgrün-glänzend;sommerliches Collier aus 8mm Kunststoff-Perle hellgrün-glänzend, Verschluss silber-farbig mit Verlängerungskettchen und Perle als Abschluss
+01488-55;;;Kette, Perlen 8mm hellgrün-glänzend;sommerliches Collier aus 8mm Kunststoff-Perle hellgrün-glänzend, Verschluss silber-farbig mit Verlängerungskettchen und Perle als Abschluss
+01488-60;;;Kette, Perlen 8mm hellgrün-glänzend;sommerliches Collier aus 8mm Kunststoff-Perle hellgrün-glänzend, Verschluss silber-farbig mit Verlängerungskettchen und Perle als Abschluss
+01488-70;;;Kette, Perlen 8mm hellgrün-glänzend;sommerliches Collier aus 8mm Kunststoff-Perle hellgrün-glänzend, Verschluss silber-farbig mit Verlängerungskettchen und Perle als Abschluss
+01488-80;;;Kette, Perlen 8mm hellgrün-glänzend;sommerliches Collier aus 8mm Kunststoff-Perle hellgrün-glänzend, Verschluss silber-farbig mit Verlängerungskettchen und Perle als Abschluss
 01489;NECKLACE, RING, SILVER BANGLE & BEADS, 110CM;;Kette, Armreif chrom-matt, Perle lapiz;Collier für die mutige Trägerin, großer Ring, 180mm, chrom-matt, kombiniert mit Kunststoff-Perlen in blau und silbergrau, an 2-fach Kordel blau, längenverstellbar mittels Schiebeknoten
 01490;Necklace, Olive Green Beads;A classic necklace of olive green beads and tiny silver-coloured beads in between each green bead. The clasp is silver-coloured and has a small extension chain for easily adjusting the length. Assembled and designed in Germany.;Kette, 10er Perle, oliv-silber, matt;zeitloses Collier mit 10mm Kunststoff-Perlen grün-matt und 4mm Kunststoff-Perlen, Oberfläche silber-galvanisiert, abwechselnd gefädelt, Verschluss silber-farbig mit Verlängerungskettchen
+01491-40;;;Kette, Perle 8mm rosa-pink-glänzend;-
+01491-42;;;Kette, Perle 8mm rosa-pink-glänzend;-
+01491-45;;;Kette, Perle 8mm rosa-pink-glänzend;-
+01491-50;;;Kette, Perle 8mm rosa-pink-glänzend;-
+01491-55;;;Kette, Perle 8mm rosa-pink-glänzend;-
+01491-60;;;Kette, Perle 8mm rosa-pink-glänzend;-
+01491-70;;;Kette, Perle 8mm rosa-pink-glänzend;-
+01491-80;;;Kette, Perle 8mm rosa-pink-glänzend;-
+01492-40;;;Kette, Perle 8mm orange-rot-glänzend;-
+01492-42;;;Kette, Perle 8mm orange-rot-glänzend;-
+01492-45;;;Kette, Perle 8mm orange-rot-glänzend;-
+01492-50;;;Kette, Perle 8mm orange-rot-glänzend;-
+01492-55;;;Kette, Perle 8mm orange-rot-glänzend;-
+01492-60;;;Kette, Perle 8mm orange-rot-glänzend;-
+01492-70;;;Kette, Perle 8mm orange-rot-glänzend;-
+01492-80;;;Kette, Perle 8mm orange-rot-glänzend;-
+01493-40;;;Kette, Perlen 8mm beere-violett-glänzend;-
+01493-42;;;Kette, Perlen 8mm beere-violett-glänzend;-
+01493-45;;;Kette, Perlen 8mm beere-violett-glänzend;-
+01493-50;;;Kette, Perlen 8mm beere-violett-glänzend;-
+01493-55;;;Kette, Perlen 8mm beere-violett-glänzend;-
+01493-60;;;Kette, Perlen 8mm beere-violett-glänzend;-
+01493-70;;;Kette, Perlen 8mm beere-violett-glänzend;-
+01493-80;;;Kette, Perlen 8mm beere-violett-glänzend;-
 01494;Necklace, Red/ Black, Pressed Beads;This stunning necklace gets its eyecatching look from a couple of pressed black and red beads. The dark colours of the necklace look very bold and will be an outstanding accessory on any outfit. The clasp is gold-coloured and has a small extension chain for easily adjusting the length. The necklace is handmade and designed in Germany.;Kette, Perle gedrückt, rot-schwarz, 42cm;-
 01496;Necklace, Beige Marbled Amulet;This necklace has an edgy look and a great eyecatching pendant. The beige colours look elegant and match perfectly with this year's winter fashion. Made and designed in Germany.;Kette, Ring, horn-marmoriert-altkupfer;sehr dekoratives Collier passend zur aktuellen Herbst- und Wintermode, großer Ring, 71mm, beige-marmoriert-matt an 2-fach Kordel dunkel-beige
+01497-40;;;Kette, 8mm Perlen türkis-grün-weiß;sommerliches Collier aus Kunststoffperlen türkis-grün-weiß marmoriert glänzend, Verschluss vergoldet mit Verlängerungskettchen
+01497-42;;;Kette, 8mm Perlen türkis-grün-weiß;sommerliches Collier aus Kunststoffperlen türkis-grün-weiß marmoriert glänzend, Verschluss vergoldet mit Verlängerungskettchen
+01497-45;;;Kette, 8mm Perle türkis-grün-weiß;Collier mit 8mm Kunststoffperlen türkis-gelb-grün marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01497-50;;;Kette, 8mm Perle türkis-grün-weiß;Collier mit 8mm Kunststoffperlen türkis-gelb-grün marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01497-55;;;Kette, 8mm Perle türkis-grün-weiß;Collier mit 8mm Kunststoffperlen türkis-gelb-grün marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01497-60;;;Kette, 8mm Perle türkis-grün-weiß;Collier mit 8mm Kunststoffperlen türkis-gelb-grün marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01497-70;;;Kette, 8mm Perle türkis-grün-weiß;Collier mit 8mm Kunststoffperlen türkis-gelb-grün marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01497-80;;;Kette, 8mm Perle türkis-grün-weiß;Collier mit 8mm Kunststoffperlen türkis-gelb-grün marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01498-40;;;Kette, Perle 8mm weiß-glänzend;sommerliches Collier mit 8mm Kunststoff-Perle weiß, Verschluss gold-farbig mit Verlängerungskettchen
+01498-42;;;Kette, Perle 8mm weiß-glänzend;sommerliches Collier mit 8mm Kunststoff-Perle weiß, Verschluss gold-farbig mit Verlängerungskettchen
+01498-45;;;Kette, Perlen 8mm weiß-glänzend;sommerliches Collier mit 8mm Kunststoffperle, weiß glänzend, Verschluss vergoldet mit Verlängerungskettchen
+01498-50;;;Kette, Perlen 8mm weiß-glänzend;sommerliches Collier mit 8mm Kunststoff-Perle weiß, Verschluss vergoldet
+01498-55;;;Kette, Perlen 8mm weiß-glänzend;sommerliches Collier mit 8mm Kunststoff-Perle weiß, Verschluss vergoldet
+01498-60;;;Kette, Perlen 8mm weiß-glänzend;sommerliches Collier mit 8mm Kunststoff-Perle weiß, Verschluss vergoldet
+01498-70;;;Kette, Perlen 8mm weiß-glänzend;sommerliches Collier mit 8mm Kunststoff-Perle weiß, Verschluss vergoldet
+01498-80;;;Kette, Perlen 8mm weiß-glänzend;sommerliches Collier mit 8mm Kunststoff-Perle weiß, Verschluss vergoldet
+01500-40;;;Kette, Perle 10mm weiß-glänzend;-
+01500-42;;;Kette, Perle 10mm weiß-glänzend;-
+01500-45;;;Kette, Perle 10mm weiß-glänzend;-
+01500-50;;;Kette, Perlen 10mm weiß-glänzend;Verschluss silberfarbig, Perlen Kunststoff
+01500-55;;;Kette, Perlen 10mm weiß-glänzend;Verschluss silberfarbig, Perlen Kunststoff
+01500-60;;;Kette, Perlen 10mm weiß-glänzend;Verschluss silberfarbig, Perlen Kunststoff
+01500-70;;;Kette, Perlen 10mm weiß-glänzend;Verschluss silberfarbig, Perlen Kunststoff
+01500-80;;;Kette, Perlen 10mm weiß-glänzend;Verschluss silberfarbig, Perlen Kunststoff
+01501-40;;;Kette, Perlen 10mm schwarz-glänzend;zeitloses Collier mit 10mm Kunststoffperle schwarz-glänzend, Verschluss silberfarbig mit Verlängerungskettchen und Perle als Abschluss
+01501-42;;;Kette, Perlen 10mm schwarz-glänzend;zeitloses Collier mit 10mm Kunststoffperle schwarz-glänzend, Verschluss silberfarbig mit Verlängerungskettchen und Perle als Abschluss
+01501-45;;;Kette, Perlen 10mm schwarz-glänzend;zeitloses Collier mit 10mm Kunststoffperle schwarz-glänzend, Verschluss silberfarbig mit Verlängerungskettchen und Perle als Abschluss
+01501-50;;;Kette, Perlen 10mm schwarz-glänzend;zeitloses Collier mit 10mm Kunststoffperlen schwarz-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01501-55;;;Kette, Perlen 10mm schwarz-glänzend;zeitloses Collier mit 10mm Kunststoffperlen schwarz-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01501-60;;;Kette, Perlen 10mm schwarz-glänzend;zeitloses Collier mit 10mm Kunststoffperle schwarz-glänzend, Verschluss vergoldet
+01501-70;;;Kette, Perlen 10mm schwarz-glänzend;zeitloses Collier mit 10mm Kunststoffperlen schwarz-glänzend, Verschluss vergoldet
+01501-80;;;Kette, Perlen 10mm schwarz-glänzend;zeitloses Collier mit 10mm Kunststoffperlen schwarz-glänzend, Verschluss vergoldet
 01502;;;Kette, Blumenmuster, altsilber;Collier passend zur aktuellen Herbst- und Wintermode, kunstvoll gefertigter Metallanhänger in altsilber, 32x27mm, an 2-fach Kordel schwarz, Verschluss silber-farbig
+01503-40;;;Kette, Perlen 10mm rot-glänzend;-
+01503-42;;;Kette, Perlen 10mm rot-glänzend;-
+01503-45;;;Kette, Perlen 10mm rot-glänzend;-
+01503-50;;;Kette, Perlen 10mm rot-glänzend;Collier mit 10mm Kunststoffperlen rot-glänzend, Verschluss silberfarbig mit Verlängerungskettchen
+01503-55;;;Kette, Perlen 10mm rot-glänzend;Collier mit 10mm Kunststoffperlen rot-glänzend, Verschluss silberfarbig mit Verlängerungskettchen
+01503-60;;;Kette, Perlen 10mm rot-glänzend;Collier mit 10mm Kunststoffperlen rot-glänzend, Verschluss silberfarbig mit Verlängerungskettchen
+01503-70;;;Kette, Perlen 10mm rot-glänzend;Collier mit 10mm Kunststoffperlen rot-glänzend, Verschluss silberfarbig mit Verlängerungskettchen
+01503-80;;;Kette, Perlen 10mm rot-glänzend;Collier mit 10mm Kunststoffperlen rot-glänzend, Verschluss silberfarbig mit Verlängerungskettchen
+01504-40;;;Kette, Perlen 10mm flieder-violett;-
+01504-42;;;Kette, Perlen 10mm flieder-violett;-
+01504-45;;;Kette, Perlen 10mm flieder-violett;-
+01504-50;;;Kette, Perlen 10mm flieder-violett;-
+01504-55;;;Kette, Perlen 10mm flieder-violett;-
+01504-60;;;Kette, Perlen 10mm flieder-violett;-
+01504-70;;;Kette, Perlen 10mm flieder-violett;-
+01504-80;;;Kette, Perlen 10mm flieder-violett;-
 01505;Necklace, Faceted Black Beads, Red Lacquered;This stunning necklace gets its eyecatching look from a couple of faceted black beads that are combined with different red lacquered and black beads. The dark colours of the necklace look very bold and will be a very outstanding accessory on any outfit. The clasp is gold-coloured and has a small extension chain for easily adjusting the length. The necklace is handmade and designed in Germany.;Kette, Facettenperle schwarz, rot-lack;-
+01506-40;;;Kette, Perlen 10mm violett-glänzend;Perlen glänzend
+01506-42;;;Kette, Perlen 10mm violett-glänzend;Perlen glänzend
+01506-45;;;Kette, Perlen 10mm violett-glänzend;Perlen glänzend
+01506-50;;;Kette, Perlen 10mm violett-glänzend;Perlen glänzend
+01506-55;;;Kette, Perlen 10mm violett-glänzend;Perlen glänzend
+01506-60;;;Kette, Perlen 10mm violett-glänzend;Perlen glänzend
+01506-70;;;Kette, Perlen 10mm violett-glänzend;Perlen glänzend
+01506-80;;;Kette, Perlen 10mm violett-glänzend;Perlen glänzend
+01507-40;;;Kette, Perlen 10mm türkis-grün-gelb;sommerliches Collier mit 8mm Kunststoffperlen türkis-grün-gelb marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01507-42;;;Kette, Perlen 10mm türkis-grün-gelb;sommerliches Collier mit 8mm Kunststoffperlen türkis-grün-gelb marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01507-45;;;Kette, Perlen 10mm türkis-grün-gelb;sommerliches Collier mit 8mm Kunststoffperlen türkis-grün-gelb marmoriert-glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01507-50;;;Kette, Perlen 10mm türkis-grün-gelb;Collier aus 10mm Kunststoffperlen türkis-gelb-grün-marmoriert glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01507-55;;;Kette, Perlen 10mm türkis-grün-gelb;Collier aus 10mm Kunststoffperlen türkis-gelb-grün-marmoriert glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01507-60;;;Kette, Perlen 10mm türkis-grün-gelb;Collier aus 10mm Kunststoffperlen türkis-gelb-grün-marmoriert glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01507-70;;;Kette, Perlen 10mm türkis-grün-gelb;Collier aus 10mm Kunststoffperlen türkis-gelb-grün-marmoriert glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
+01507-80;;;Kette, Perlen 10mm türkis-grün-gelb;Collier aus 10mm Kunststoffperlen türkis-gelb-grün-marmoriert glänzend, Verschluss vergoldet mit Verlängerungskettchen und Perle als Abschluss
 01508;Necklace, Four-Edged Bead, Red Marbled;This jewellery piece is timeless and chic for any occasion. The beaded necklace of four-edged plastic beads has a red marbled colour. The surface of the beads is glossy. The clasp of the necklace is gold-coloured and has a small extension chain for easily adjusting the length. The necklace is handmade in Germany.;Kette, Vierkantperle rot-marmoriert;
+01509-40;;;Kette, Perlen 10mm rot-schwarz-glänzend;Collier passend zur aktuellen Herbst- und Wintermode mit 10mm Kunststoff-Perlen dunkelrot-schwarz, Verschluss gold-farbig mit Verlängerungskettchen
+01509-42;;;Kette, Perlen 10mm rot-schwarz-glänzend;Collier passend zur aktuellen Herbst- und Wintermode mit 10mm Kunststoff-Perlen dunkelrot-schwarz, Verschluss gold-farbig mit Verlängerungskettchen
+01509-45;;;Kette, Perlen 10mm rot-schwarz-glänzend;Collier passend zur aktuellen Herbst- und Wintermode mit 10mm Kunststoff-Perlen dunkelrot-schwarz, Verschluss gold-farbig mit Verlängerungskettchen
+01509-50;;;Kette, Perlen 10mm rot-schwarz-glänzend;Collier passend zur aktuellen Herbst- und Wintermode aus 10mm Kunststoff-Perle dunkelrot-schwarz, Verschluss gold-farbig mit Verlängerungskettchen
+01509-55;;;Kette, Perlen 10mm rot-schwarz-glänzend;Collier passend zur aktuellen Herbst- und Wintermode aus 10mm Kunststoff-Perle dunkelrot-schwarz, Verschluss gold-farbig mit Verlängerungskettchen
+01509-60;;;Kette, Perlen 10mm rot-schwarz-glänzend;Collier passend zur aktuellen Herbst- und Wintermode aus 10mm Kunststoff-Perle dunkelrot-schwarz, Verschluss gold-farbig mit Verlängerungskettchen
+01509-70;;;Kette, Perlen 10mm rot-schwarz-glänzend;Collier passend zur aktuellen Herbst- und Wintermode aus 10mm Kunststoff-Perle dunkelrot-schwarz, Verschluss gold-farbig mit Verlängerungskettchen
+01509-80;;;Kette, Perlen 10mm rot-schwarz-glänzend;Collier passend zur aktuellen Herbst- und Wintermode aus 10mm Kunststoff-Perle dunkelrot-schwarz, Verschluss gold-farbig mit Verlängerungskettchen
+01510-40;;;Kette, Perlen 10mm gelb-glänzend;-
+01510-42;;;Kette, Perlen 10mm gelb-glänzend;-
+01510-45;;;Kette, Perlen 10mm gelb-glänzend;-
+01510-50;;;Kette, Perlen 10mm gelb-glänzend;-
+01510-55;;;Kette, Perlen 10mm gelb-glänzend;-
+01510-60;;;Kette, Perlen 10mm gelb-glänzend;-
+01510-70;;;Kette, Perlen 10mm gelb-glänzend;-
+01510-80;;;Kette, Perlen 10mm gelb-glänzend;-
 01515;Necklace, Red Marbled Beads;This necklace has an eyecatching and stunning look. The red marbled bead colour looks very elegant. This jewellery piece is a great accessory for everyday life. The clasp is gold plated. This necklace is entirely handmade and designed in Germany.;Kette, Vierkantperle, rot-marmoriert;-
 01519;;;Kette, Rohr elfenbein-braun;jugendliches Collier mit Kunststoff-Walzen 25x6mm beige-sand und  Holzperlen dunkelbraun glänzend, Verschluss vergoldet
 01520;necklace, root-wood trapezium, cord;This is a chic and sophisticated necklace with a root-wood, red and black coloured, shiny pendant, shaped as a trapezium. The three-fold black cord can be closed by a silver-coloured clasp which has a small extension chain for easily adjusting the length.;Kette, Trapez, Wurzelholz-glänzend;Collier mit Kunststoff-Anhänger, 28x27mm, ähnlich Wurzelholz, an 3-fach Kordel schwarz, Verschluss silber-farbig mit Verlängerungskettchen
@@ -1042,7 +1164,7 @@ itemno;title;description;abe-title;abe-description
 02000-03;Red Leather Cord, Silver Clasp, 100cm;A simple leather cord that can be used for making necklaces or replacing an old leather cord of a necklace. It already has a silver coloured clasp, with a small extension chain, which can easily be closed onto the other end of the leather cord, after putting on beads or pendants.;Band, Leder rot, 1x Verschluss si;-
 02000-05;Blue Leather Cord, Silver Clasp, 100cm;A simple leather cord that can be used for making necklaces or replacing an old leather cord of a necklace. It already has a silver coloured clasp, with a small extension chain, which can easily be closed onto the other end of the leather cord, after putting on beads or pendants.;Band, Leder dunkelblau, 1x Verschluss si;-
 02000-06;Green Leather Cord, Silver Clasp, 100cm;A simple leather cord that can be used for making necklaces or replacing an old leather cord of a necklace. It already has a silver coloured clasp, with a small extension chain, which can easily be closed onto the other end of the leather cord, after putting on beads or pendants.;Band, Leder dunkelgrün, 1x Verschluss si;-
-02000-08;Black Leather Cord, Silver Clasp, 100cm;A simple leather cord that can be used for making necklaces or replacing an old leather cord of a necklace. It already has a silver coloured clasp, with a small extension chain, which can easily be closed onto the other end of the leather cord, after putting on beads or pendants.;Band, Leder braun, 1x Verschluss si;-
+02000-08;Brown Leather Cord, Silver Clasp, 100cm;A simple leather cord that can be used for making necklaces or replacing an old leather cord of a necklace. It already has a silver coloured clasp, with a small extension chain, which can easily be closed onto the other end of the leather cord, after putting on beads or pendants.;Band, Leder braun, 1x Verschluss si;-
 02000-09;Black Leather Cord, Silver Clasp, 100cm;A simple leather cord that can be used for making necklaces or replacing an old leather cord of a necklace. It already has a silver coloured clasp, with a small extension chain, which can easily be closed onto the other end of the leather cord, after putting on beads or pendants.;Band, Leder sw, 1x Verschluss si-farbig;-
 02000-10;;A simple leather cord that can be used for making necklaces or replacing an old leather cord of a necklace. It already has a silver coloured clasp, with a small extension chain, which can easily be closed onto the other end of the leather cord, after putting on beads or pendants.;Band, Leder natur, 1x Verschluss si;-
 02000-62;;A simple leather cord that can be used for making necklaces or replacing an old leather cord of a necklace. It already has a silver coloured clasp, with a small extension chain, which can easily be closed onto the other end of the leather cord, after putting on beads or pendants.;Band, Leder oliv-khaki, 1x Verschluss si;-
