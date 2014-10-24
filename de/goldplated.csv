@@ -1,4 +1,4 @@
-itemno;title;description;gallay-title;gallay-description
+itemno;title;description;abe-title;abe-description
 201005-19;;;Armband, Panzerkette 2x diamantiert, AMD;-
 201005-45;;;Kette, Panzerkette 2x diamantiert, AMD;-
 201005-50;;;Kette, Panzerkette 2x diamantiert, AMD;-
@@ -306,6 +306,7 @@ itemno;title;description;gallay-title;gallay-description
 244350-55;;;Kette, Singapur diamantiert, AMD;-
 244350-60;;;Kette, Singapur diamantiert, AMD;-
 244350-90;;;Bauchkette, Singapur, gold-plattiert;Bikinikette gold-plated (vergoldet), am Ende der Kette 3 Ösen im Abstand von 6cm  mit Endkugel 4mm, diamantiert
+244353-27;;;Fußkette, Singapur gold-plattiert, AMD;3 Ösen bei 23, 25 und 27cm, 4mm Endkugel, gold-plattiert 10/000
 30001-56;;Ein wunderschöner, vergoldeter Fingerring in hochwertiger Double-Qualität, in der Mitte verziert mit einer synthetischen Perle 7,5mm und vielen Zirkonias auf den beiden geschwungenen Bögen.;Ring, Perle, vergoldet, 3 Micron;Ein wunderschöner, vergoldeter Fingerring in hochwertiger Double-Qualität, in der Mitte verziert mit einer synthetischen Perle 7,5mm und vielen Zirkonias auf den beiden geschwungenen Bögen.
 30001-58;;Ein wunderschöner, vergoldeter Fingerring in hochwertiger Double-Qualität, in der Mitte verziert mit einer synthetischen Perle 7,5mm und vielen Zirkonias auf den beiden geschwungenen Bögen.;Ring, Perle, vergoldet, 3 Micron;Ein wunderschöner, vergoldeter Fingerring in hochwertiger Double-Qualität, in der Mitte verziert mit einer synthetischen Perle 7,5mm und vielen Zirkonias auf den beiden geschwungenen Bögen.
 30001-60;;Ein wunderschöner, vergoldeter Fingerring in hochwertiger Double-Qualität, in der Mitte verziert mit einer synthetischen Perle 7,5mm und vielen Zirkonias auf den beiden geschwungenen Bögen.;Ring, Perle, vergoldet 3 Micron;Ein wunderschöner, vergoldeter Fingerring in hochwertiger Double-Qualität, in der Mitte verziert mit einer synthetischen Perle 7,5mm und vielen Zirkonias auf den beiden geschwungenen Bögen.
@@ -581,9 +582,6 @@ itemno;title;description;gallay-title;gallay-description
 30074-60;;;Ring, gold-plattiert;3 Streifen breit
 30074-64;;;Ring, gold-plattiert;3 Streifen breit
 30081-62;;;Ring, gr.Onyx, gold-plattiert;Onyx
-30081-64;;;Ring, gr.Onyx, gold-plattiert;Onyx
-30081-66;;;Ring, gr.Onyx, gold-plattiert;Onyx
-30081-68;;;Ring, gr.Onyx, gold-plattiert;Onyx
 30085-58;;;Ring, kl. Zirkonia, gold-plattiert;Dreieck, Zirkonia
 30085-60;;;Ring, kl. Zirkonia, gold-plattiert;Dreieck, Zirkonia
 30085-62;;;Ring, kl. Zirkonia, gold-plattiert;Dreieck, Zirkonia
@@ -710,7 +708,7 @@ itemno;title;description;gallay-title;gallay-description
 30207-58;;;Ring, 7mm gold-plattiert Zirkonia;hohe Qualität durch 3 GOLD-Schichten, gold-plattiert, Zirkonia
 30207-60;;;Ring, 7mm gold-plattiert Zirkonia;hohe Qualität durch 3 GOLD-Schichten, gold-plattiert, Zirkonia
 30209-60;;;Ring, 7mm, doppelt, gold-plattiert;2-teiliger Ring, eine Hälfte rhodiniert, hohe Qualität durch 3 GOLD-Schichten, gold-plattiert
-30209-62;;;Ring, 7mm, doppelt, gold-plattiert;2-teiliger Ring, eine Hälfte rhodiniert, hohe Qualität durch 3 GOLD-Schichten, gold-plattiert
+30209-62;;;Ring, 7mm, doppelt, gold-plattiert;2-teiliger Ring, eine Hälfte rhodiniert, hohe Qualität durch 3 Gold-Schichten, gold-plattiert
 30209-66;;;Ring, 7mm, doppelt, gold-plattiert;2-teiliger Ring, eine Hälfte rhodiniert, hohe Qualität durch 3 GOLD-Schichten, gold-plattiert
 30210-56;;;Ring, 11mm gold-plattiert Zirkonia;hohe Qualität durch 3 GOLD-Schichten, gold-plattiert, 10mm quadratischer Zirkonia und mehrere kleine Zirkonias, sehr dekorativ
 30210-60;;;Ring, 11mm gold-plattiert Zirkonia;hohe Qualität durch 3 GOLD-Schichten, gold-plattiert, 10mm quadratischer Zirkonia und mehrere kleine Zirkonias, sehr dekorativ

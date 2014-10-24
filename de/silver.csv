@@ -1,4 +1,4 @@
-itemno;title;description;gallay-title;gallay-description
+itemno;title;description;abe-title;abe-description
 101000-23;;;Schildband, Weitpanzer diamantiert, 925;Identitätsarmband mit Muster, diamantiert
 101001-25;;hochwertiges Schmuckstück in feinster Juwelierqualität mit einem kleinen Engelsflügel als Abschluss, Öse bei 23cm und 25cm, Der Engelsflügel gilt landesweit als Schutzsymbol!;Fußkette Panzer Engelflügel, Silber 925;Öse bei 23cm und 25cm, Ende Engelsflügel  16x6mm
 101003-19;;;Armband, Panzerkette flach, Silber 925;2x diamantiert, sehr flache Kette, Dicke nur 1mm, Breite 2,8mm
@@ -15,7 +15,7 @@ itemno;title;description;gallay-title;gallay-description
 101019-21;;;Armband, Panzerkette 2x diam Silber 925;2x diamantiert
 101019-50;;;Kette, Panzerkette 2x diam Silber 925;2x diamantiert
 101019-55;;;Kette, Panzerkette 2x diam Silber 925;2x diamantiert
-101020-21;;;Schildband, Armband Panzer, Silber 925;Identitätsarmband, Gravurplatte 46x7mm, hoch-glänzend, 4x diamantiert
+101020-21;;;Schildband, Armband Panzer, Silber 925;Identitätsarmband, Gravurplatte 46x7x3mm, hoch-glänzend, 4x diamantiert
 101021-21;;;Schildband, Armband Panzer, Silber 925;Identitätsarmband, Gravurplatte 54x8mm
 101038-19;;Identitätsarmband Panzerkette flach gedrückt, 6,3mm breit, mit leicht gebogener Gravurplatte 6,2x49mm in bester Juwelierqualität, Ein tolles Schmuckstück für ein ganz persönliches Geschenk!;Schildband, Armband, Panzer Silber 925;flache Panzerkette 101016 mit leicht gebogener Gravurplatte 6,2x49mm
 101038-21;;Identitätsarmband Panzerkette flach gedrückt, 6,3mm breit, mit leicht gebogener Gravurplatte 6,2x49mm in bester Juwelierqualität, Ein tolles Schmuckstück für ein ganz persönliches Geschenk!;Schildband, Armband, Panzer Silber 925;flache Panzerkette 101016 mit leicht gebogener Gravurplatte mm
@@ -78,7 +78,7 @@ itemno;title;description;gallay-title;gallay-description
 102018-50;;;Kette, Weitpanzer, 50cm, Silber 925;6x diamantiert
 102018-55;;;Kette, Weitpanzer, 55cm, Silber 925;6x diamantiert
 102019-19;;;Schildband Armband Weitpanzer Silber 925;Identitätsarmband, Gravurplatte 37x7mm hochglänzend, Weitpanzer 2x diamantiert
-102020-20;;;Schildband Armband Weitpanzer Silber 925;Identitätsarmband, Gravurplatte 40x9mm, hochglänzend
+102020-20;;;Schildband Armband Weitpanzer Silber 925;Identitätsarmband, Gravurplatte 40x9x1,5mm, hochglänzend, Armband 3mm dick
 103000-19;;;Armband, Zwillingspanzer, Silber 925;2x diamantiert
 103000-21;;;Armband, Zwillingspanzer, Silber 925;2x diamantiert
 103000-42;;;Kette, Zwillingspanzer, Silber 925;2x diamantiert
@@ -236,11 +236,12 @@ itemno;title;description;gallay-title;gallay-description
 113831-50;;Dieses stilvolle Collier aus 925er Silber, 2,7mm breit, hat ein besonders ausgeprägtes Figaro-Muster und ist 2-fach diamantiert. Mit seinem traditionellen Muster ist es absolut zeitlos und darf in keinem Schmuckkästchen fehlen.;Kette, Figaro Panzer 50cm, Silber 925;2x diamantiert
 113831-60;;;Kette, Figaro Panzer 60cm, Silber 925;2x diamantiert
 113831-70;;;Kette, Figaro Panzer 70cm, Silber 925;2x diamantiert
-115660-19;;;Armband, Panzer gedrückt, Silber 925;flaches Armband diamantiert, Ränder leicht angeschliffen, diamantiert
-115660-21;;;Armband, Panzer gedrückt diam, 925;flaches Armband diamantiert, Ränder leicht angeschliffen
-115660-42;;;Kette, Panzer gedrückt diam, 925;flache Kette diamantiert, Ränder leicht angeschliffen
-115660-45;;;Kette, Panzer gedrückt, Silber 925;flache Kette diamantiert, Ränder leicht angeschliffen, diamantiert
-115660-50;;;Kette, Panzer gedrückt diam, 925;flache Kette diamantiert, Ränder leicht angeschliffen
+115660-19;;;Armband, Panzer gedrückt, Silber 925;flaches Armband diamantiert, Ränder leicht angeschliffen
+115660-21;;;Armband, Panzer gedrückt, Silber 925;flaches Armband diamantiert, Ränder leicht angeschliffen
+115660-40;;;Kette, Panzer gedrückt, Silber 925;flache Kette diamantiert, Ränder leicht angeschliffen
+115660-42;;;Kette, Panzer gedrückt, Silber 925;flache Kette diamantiert, Ränder leicht angeschliffen
+115660-45;;;Kette, Panzer gedrückt, Silber 925;flache Kette diamantiert, Ränder leicht angeschliffen
+115660-50;;;Kette, Panzer gedrückt, Silber 925;flache Kette diamantiert, Ränder leicht angeschliffen
 116002-19;;;Armband, Kobrakette 4x diam, Silber 925;4x diamantiert
 116002-42;;;Kette, Kobra 4x diamantiert Silber 925;-
 116002-45;;;Kette, Kobra 4x diamantiert Silber 925;4x diamantiert
@@ -301,8 +302,6 @@ itemno;title;description;gallay-title;gallay-description
 119007-42;;;Kette, Schlange symmetrisch Silber 925;Kugeln 2,5mm, mit Zwischenteilen symmetrisch angeordnet
 119007-45;;;Kette, Schlange symmetrisch Silber 925;Kugeln 2,5mm, mit Zwischenteilen symmetrisch angeordnet
 119007-50;;;Kette, Schlange symmetrisch Silber 925;Kugeln 2,5mm, mit Zwischenteilen symmetrisch angeordnet
-119009-19;;;Armband, Schlange, 3x Spirale, FR, 925;-
-119009-45;;;Kette, Schlange, 3x Spirale, KB , 925;-
 119010-19;;;Armband, Schlange 5kant diam, Silber 925;diamantiert
 119010-42;;;Kette, Schlange 5kant diam, Silber 925;diamantiert
 119010-45;;;Kette, Schlange 5kant diam, Silber 925;diamantiert
@@ -326,14 +325,12 @@ itemno;title;description;gallay-title;gallay-description
 119014-40;;;Kette, Schlange vierkant, KB, 925;oxydiert (geschwärzt) und diamantiert mit Sternchen-Muster
 119014-42;;;Kette, Schlange vierkant, KB, 925;oxydiert (geschwärzt) und diamantiert mit Sternchen-Muster
 119014-45;;;Kette, Schlange vierkant, KB, 925;oxydiert (geschwärzt) und diamantiert mit Sternchen-Muster
-119017-27;;;Fußkette, Schlange rund FR, 925;Länge verstellbar von 20, 22, 23, 26 bis 27cm, Glasperlen und 2 Herzen, weiß kristall, auch als Armband verwendbar
 119018-19;;;Armband, Y-Schlangenkette, Silber 925;mehrreihig
 119018-41;;;Kette, Y-Schlangenkette, Silber 925;mehrreihig
 119019-19;;;Armband, Schlange rund oxyd-silber, 925;Farbeffekt entsteht durch zusätzliche diagonale Schwärzung (Oxydierung)
 119019-40;;;Kette, Schlange rund oxyd-silber, 925;Farbeffekt entsteht durch zusätzliche diagonale Schwärzung (Oxydierung)
 119019-42;;;Kette, Schlange rund oxyd-silber, 925;Farbeffekt entsteht durch zusätzliche diagonale Schwärzung (Oxydierung)
 119019-45;;;Kette, Schlange rund oxyd-silber, 925;Farbeffekt entsteht durch zusätzliche diagonale Schwärzung (Oxydierung)
-119020-45;;;Kette, Y Schlange mit 3 Kettchen, 925;am Y-Teil hängen 3 Kettchen je 1x mit Kegel 95mm lang, mit Olive 75mm lang, mit Kugel 60mm lang
 119022-42;;Diese raffiniert gearbeitete Schlangenkette aus 925er Silber hat abwechselnde Musterabschnitte von jeweils ca. 1cm Länge. Die Oberfläche ist diamantiert. Dieses Schmuckstück könnte sich schnell zu Ihrem Lieblingsstück entwickeln!;Kette Schlange gemustert, Silber 925;abwechselnd Schlangenkette 4-kant mit Musterabschnitten Schlange verdreht, jeweils ca. 1cm lang, diamantiert
 119022-45;;Diese raffiniert gearbeitete Schlangenkette aus 925er Silber hat abwechselnde Musterabschnitte von jeweils ca. 1cm Länge. Die Oberfläche ist diamantiert. Dieses Schmuckstück könnte sich schnell zu Ihrem Lieblingsstück entwickeln!;Kette Schlange gemustert, Silber 925;abwechselnd Schlangenkette 4-kant mit Musterabschnitten Schlange verdreht, jeweils ca. 1cm lang, diamantiert
 119028-19;;;Armband, Y-Schlangenkette, Silber 925;mehrreihig
@@ -353,21 +350,6 @@ itemno;title;description;gallay-title;gallay-description
 120004-50;;;Kette 2,5mm Schlange-flach Silber 925;-
 120007-40;;;Kette, Schlange flach I LOVE YOU, 925;mit Gravur I LOVE YOU und Herz
 120007-42;;;Kette, Schlange flach I LOVE YOU, 925;mit Gravur I LOVE YOU und Herz
-120014-42;;;Kette, Schlange oxyd gedreht, KB 925;gleichmäßig gedreht, Rand sw-oxidiert-diam, innen si-diam
-120014-45;;;Kette, Schlange oxyd gedreht, KB 925;gleichmäßig gedreht, Rand schwarz-oxidiert-diamantiert, innen silber-diamantiert
-120015-42;;;Kette, Schlange flach sw-Laser si, 925;Kette schwarz-oxydiert mit Muster gelasert
-120015-45;;;Kette, Schlange flach sw-Laser si, 925;Kette sw-oxydiert mit Muster gelasert, KB
-120016-45;;;Kette, Schlange flach diam KB, 925;Oberfläche mit Stern-Muster, diamantiert
-120016-50;;;Kette, Schlange flach diam KB, 925;Oberfläche mit Stern-Muster, diamantiert
-120017-17;;;Armband, Schlange flach, oxyd diam, 925;Oberfläche schwarz-oxidiert, diam mit Viereck-Muster, Rückseite oxidiert
-120017-19;;;Armband, Schlange flach, oxyd diam, 925;Oberfläche schwarz-oxidiert, diam mit Viereck-Muster, Rückseite oxidiert
-120017-42;;;Kette, Schlange flach, oxyd diam, 925;Oberfläche schwarz-oxidiert, diam mit Viereck-Muster, Rückseite oxidiert
-120017-45;;;Kette, Schlange flach, oxyd diam, 925;Oberfläche schwarz-oxidiert, diam mit Viereck-Muster, Rückseite oxidiert
-120018-19;;;Armband, Schlange flach, oxyd diam, 925;Rand und Rückseite schwarz-oxidiert, Mitte si-diam, stark glitzernd
-120018-42;;;Kette, Schlange flach, oxyd diam, 925;Rand und Rückseite schwarz-oxidiert, Mitte si-diam, stark glitzernd, KB
-120018-45;;;Kette, Schlange flach, oxyd diam, 925;Rand und Rückseite schwarz-oxidiert, Mitte si-diam, stark glitzernd
-120018-50;;;Kette, Schlange flach, oxyd diam, 925;Rand und Rückseite schwarz-oxidiert, Mitte si-diam, stark glitzernd
-120019-19;;;Armband, Schlange flach, oxyd diam, 925;Rückseite schwarz-oxidiert, Mitte sw-si-diam Linienmuster, stark glitzernd
 120020-19;;;Armband, Schlange flach 19cm, Silber 925;sehr flexibles, weich am Handgelenk anliegendes Armband
 120020-42;;;Kette, Schlange flach 42cm, Silber 925;sehr flexible, weich am Hals anliegende Kette
 120020-45;;;Kette, Schlange flach 45cm, Silber 925;sehr flexible, weich am Hals anliegende Kette
@@ -515,7 +497,7 @@ itemno;title;description;gallay-title;gallay-description
 137002-70;;;Kette, 5mm Königskette, Silber 925;quadratisch vierkant poliert
 137003-21;;;Armband, 6mm Königskette, Silber 925;6mm quadratisch vierkant poliert
 137003-23;;;Armband, 6mm Königskette, Silber 925;quadratisch vierkant poliert
-137003-50;;;Kette, 6mm Königskette, Silber 925;6mm quadratisch glänzend poliert
+137003-50;;;Kette, 6mm Königskette, Silber 925;6mm quadratisch, glänzend poliert
 137003-80;;;Kette, 6mm Königskette, Silber 925;quadratisch glänzend poliert
 137007-23;;;Armband, 7mm Königskette, Silber 925;quadratisch vierkant poliert
 137007-55;;;Kette, 7mm Königskette, Silber 925;quadratisch vierkant poliert
@@ -553,7 +535,7 @@ itemno;title;description;gallay-title;gallay-description
 90021;;kleine 11mm Drahtcreole mit Steckverschluss, auch gut geeignet für 2. oder 3. Piercing, Davon kann man nie genug haben!;Creole, 11mm, glänzend, Silber 925;Drahtcreole mit Steckverschluss und Scharnier, kleine Creolen
 90022;;kleine 13mm Drahtcreole mit Steckverschluss und Scharnier, auch gut geeignet für 2. oder 3. Piercing, Davon kann man nie genug haben!;Creole, 13mm, Silber 925;Drahtcreole mit Steckverschluss und Scharnier
 90023;;kleine 15mm Drahtcreole mit Steckverschluss, auch gut geeignet für 2. oder 3. Piercing, Davon kann man nie genug haben!;Creole, 15mm, Silber 925;Drahtcreole mit Steckverschluss und Scharnier
-90024;;mit vielen Zirkonias, anlaufgeschützt rhodiniert;Anhänger, Taufring Zirkonia, Silber 925;Oberfläche micro pave bzw. micro settings mit vielen Zirkonias, anlaufgeschützt rhodiniert
+90024;;mit vielen Zirkonias, anlaufgeschützt rhodiniert;Anhänger, Taufring Zirkonia, Silber 925;Oberfläche micro pave bzw. micro settings mit vielen Zirkonias, anlaufgeschützt rhodiniert, Innendurchmesser 7mm
 90025;;Drahtcreole mit Steckverschluss, Oberfläche glänzend, Ein dezentes Schmuckstück für jede Gelegenheit!;Creole, 25mm, Silber 925;Drahtcreole mit Steckverschluss und Scharnier
 90026;;;Creole, 44mm, glänzend, Silber 925;Drahtcreole mit Steckverschluss und Scharnier
 90027;;;Anhänger, matt, Rand glzd, Silber 925;-
@@ -597,7 +579,7 @@ itemno;title;description;gallay-title;gallay-description
 90093;;;Anhänger, Herz Zirkonia, Silber 925;-
 90094;;sehr feiner und gleichzeitig ausgefallener Ohrschmuck Durchzieher mit Venezianer-Kettchen 1mm, Gesamtlänge 110mm und  gefasstem Zirkonia-Herz 4,5mm;Durchzieher, Herz m. Zirkonia Silber 92;Venezianer-Kettchen 1mm, Gesamtlänge 110mm, Zirkonia-Herz gefasst 4,5mm
 90099;;filigran gearbeiteter Ohrstecker, Nachbildung einer Rosenblüte, diamantiert, Ein zeitloses Schmuckstück für viele Gelegenheiten!;Stecker, Rose diamantiert, Silber 925;-
-90100;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, im Ring hängt ein Anhänger mit einem kleinen Engel als Schutzsymbol, auch als Kettenanhänger zu tragen, Gesamtlänge mit Öse 22mm;Anhänger, Taufring mit Engel Silber 925;kleiner Anhänger mit Zirkonia 12x3mm, Gesamtlänge 22mm
+90100;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, im Ring hängt ein Anhänger mit einem kleinen Engel als Schutzsymbol, auch als Kettenanhänger zu tragen, Gesamtlänge mit Öse 22mm;Anhänger, Taufring mit Engel Silber 925;kleiner Engeleinhänger 6mm, Ring mit Zirkonia, Innendurchmesser vom Ring 10mm
 90101;;Ein besonderes Geschenk nicht nur zum Muttertag! Anhänger Doppelherz mit Schriftzeichen -MOM-, mit vielen Zirkonias, Oberfläche anlaufgeschützt rhodiniert;Anhänger, MOM, 2 Herzen, Zirkonia, 925;alle Steine gefasst, Oberfläche anlaufgeschützt rhodiniert, Silber 925
 90102;;Stilvoller Ohrstecker in ausgefallenem Design für die anspruchsvolle DAME! mit vielen Zirkonias und Süßwasserzuchtperle 8mm halbrund, Oberfläche anlaufgeschützt rhodiniert. Sehr zu empfehlen als Brautschmuck!;Stecker, Zuchtperle Zirkonia, Silber 925;sehr kreativer Ohrring, Oberfläche anlaufgeschützt rhodiniert, Süßwasserzuchtperlen 8mm halbrund
 90104;;sehr schöner aufwendig gearbeiteter Ohrstecker, komplett mit Zirkonia besetzt, Stein in der Mitte Zirkonia helloliv (jonquil), Ein wunderschönes Schmuckstück passend zu festlicher Robe, auch toll als Brautschmuck!;Stecker, Stein helloliv mit Strass, 925;sehr schöner aufwendig gearbeiteter Ohrstecker, komplett mit Zirkonia besetzt, Stein in der Mitte Zirkonia helloliv (jonquil)
@@ -832,7 +814,7 @@ itemno;title;description;gallay-title;gallay-description
 90440;;hochwertig gearbeiteter Anhänger in bester Qualität, Nachbildung eines Motorrad Schopper, keine beweglichen Teile, toller Herrenschmuck;Anhänger, Schopper Motorrad, Silber 925;-
 90442;;kleiner, dezent gehaltener Silberanhänger Kreuz, hochglänzend und wunderschön geschliffen, Ein besonderer Eyecatcher als Ausdruck tiefster Religiösität.;Anhänger, kleines Kreuz, Silber 925;Vorderseite hoch-glänzend und wunderbar geschliffen
 90444;;lustiger kleiner Ohrstecker Stern in himmlischem Gelb mit roten Augen, Ein wunderschönes Geschenk zum Geburtstag, Schuleinweihung oder einfach mal als kleine Überraschung zwischendurch.;Stecker, Stern gelb, Silber 925;gelber Stern mit zwei roten Augen
-90448;;;Anhänger, Taufring Zirkonia, Silber 925;Taufring-Anhänger vollständig mit kleinen Zirkonias besetzt (micro pave bzw. micro settings), Zirkonias doppelreihig, Oberfläche anlaufgeschützt rhodiniert
+90448;;;Anhänger, Taufring Zirkonia, Silber 925;Taufring-Anhänger vollständig mit kleinen Zirkonias besetzt (micro pave bzw. micro settings), Zirkonias doppelreihig, Oberfläche anlaufgeschützt rhodiniert, Innendurchmesser 6mm
 90449;;;Anhänger, Kreuz diamantiert, Silber 925;kleines aber massives Silberkreuz, matt-glänzend und perfekt diamantiert
 90450;;;Anhänger, Kreuz diamantiert, Silber 925;kleines aber massives Silberkreuz, matt-glänzend und perfekt diamantiert
 90451;;;Anhänger, Kreuz diamantiert, Silber 925;hochwertiges massives Silberkreuz, matt-glänzend und perfekt diamantiert
@@ -975,7 +957,7 @@ itemno;title;description;gallay-title;gallay-description
 90620;;süßer kleiner Anhänger Fisch, Guss massiv, Vorderseite orange emaillier, Ein tolles Geschenk zum Geburtstag, Schuleinweihung oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Fisch orange, 925;massiver Kinderanhänger, Guss
 90621;;dekorativer Silber-Anhänger, die Kunststoff-Perle wachsweiß ist eingefasst in dem spiralförmigen Anhänger;Anhänger, Perle Imitat-weiß Silber 925;-
 90622;;kleiner zarter Ohrstecker Blume mit winzigem Zirkonia als Blüte, Klein aber fein, weniger ist manchmal mehr!;Stecker, Blume mit Zirkonia, Silber 925;-
-90623;;Anhänger mit dem Bildnis des heiligen Christophorus, rund und silber-antik geschwärzt, Schutzpatron der Reisenden, Ein toller Talisman für alle Lieben, die ständig unterwegs sind.;Anhänger, Christophorus-antik Silber 925;religiöse Medaille rund, Schutzpatron der Reisenden, silber-antik
+90623;;Anhänger mit dem Bildnis des heiligen Christophorus, rund und silber-antik geschwärzt, Schutzpatron der Reisenden, Ein toller Talisman für alle Lieben, die ständig unterwegs sind.;Anhänger, Christophorus-antik Silber 92;religiöse Medaille rund, Schutzpatron der Reisenden, silber-antik
 90624;;Herzanhänger für ein ganz persönliches Geschenk. Oberfläche matt, rhodiniert anlaufgeschützt, mit Inschrift -be mine- (sei mein);Anhänger, Herz -be mine- Silber 925;Liebeserklärung - sei mein - rhodiniert
 90625;;;Creole, 8x Zirkonia, Silber 925;mit Klappscharnier, matt-glänzend, rechts-links, 8x Zirkonia
 90626;;Herzanhänger für ein ganz persönliches Geschenk. Oberfläche matt, rhodiniert anlaufgeschützt, mit Inschrift -mad about you- (verrückt nach dir);Anhänger Herz -mad about you- Silber 925;Liebeserklärung - ich bin verrückt nach dir - rhodiniert
@@ -1135,7 +1117,7 @@ itemno;title;description;gallay-title;gallay-description
 90857;;Anch-Symbol, kleiner Ohrstecker, Oberfläche glänzend, In der populären Kultur kommt das Anch-Symbol häufig als Symbol für Unsterblichkeit oder Lebenskraft vor.;Stecker, Kreuz m Schlaufe, Silber 925;-
 90858;;;Stecker, schwarze Füße, Silber 925;-
 90861;;Hochwertig gearbeitete Brisur in feinster Juwelierqualität, das Herz bildet den Rahmen für einen kleine Zirkonia pink, Ein wunderschönes Geschenk für eine lieben Menschen!;Brisur, Herz Zirkonia-pink, Silber 925;-
-90862;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring rundherum mit Zirkonia besetzt;Taufring, mit Zirkonia, Silber 925;-
+90862;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring rundherum mit Zirkonia besetzt;Taufring, mit Zirkonia, Silber 925;Innendurchmesser 7mm
 90869;;Originelle Creole mit Klappscharnier und aufgesetztem Pferdchen, 925er Silber, da schlägt das Herz der kleinen Pferdefreundin höher. Ein wunderschönes Geschenk für Geburtstag, Schuleinführung oder einfach mal als kleine Überraschung!;Creole, Pferd Klappscharnier Silber 925;Abmessung Pferd 7x7mm, glänzend
 90870;;zeitloser Ohrstecker, kleines Viereck mit 8 Strass-Steinen, Ein Schmuckstück für jede Gelegenheit.;Stecker, Strass-Viereck, 925;Strass-Steine kristallin
 90871;;hochwertig gearbeiteter Anhänger Charm mit Handschellen, die Oberfläche ist anlaufgeschützt rhodiniert, Ein tolles Geschenk für Jemand den man für immer an sich binden möchte!;Anhänger, Charm Handschellen, Silber 925;Oberfläche anlaufgeschützt rhodiniert
@@ -1469,7 +1451,7 @@ itemno;title;description;gallay-title;gallay-description
 91284;;Dieser lustige kleine Ohrstecker mit Bärchengesicht zaubert ein Lächeln auf Ihr Gesicht! Augen schwarz und Mund rot lackiert, Oberfläche matt, Für kleine und große Teddy-Liebhaber.;Stecker, Bärgesicht matt, Silber 925;Augen und Mund lackiert, schwarz-rot
 91285;;hochwertig gearbeitetes Schmuckstück in bester Juwelierqualität, Anhänger Ring mit S-förmiger Verzierung, sehr schön mit Zirkonia weiß besetzt, Oberfläche hochglänzend und anlaufgeschützt rhodiniert, Ein außergewöhnliches Geschenk für eine besonderen Menschen.;Anhänger, Kreis mit Zirkonia, Silber 925;rhodiniert
 91286;;Hochwertig gearbeitetes Kreuz mit Jesus in weichen femininen Formen in 1A Qualität. Die Kanten sind abgerundet und Jesus in stilisierter Art hervorgehoben und mattiert, die Rückseite ist verbödet und das Kreuz ist innen hohl. Wir haben hier eine moderne Form eines Kruzifix! Ein besonderes Geschenk zur Taufe, Konfirmation oder Kommunion und als Talisman mit Gottes Segen!;Anhänger, Kreuz mit Jesus, Silber 925;sehr feminin, abgerundet, innen hohl, Jesus in stilisierter Art hervorgehoben und mattiert
-91287;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring 8x2mm aus 925er Silber, rundherum komplett mit Zirkonia besetzt;Anhänger, Taufring Zirkonia, Silber 925;Taufring ist rundherum komplett mit Zirkonias besetzt.
+91287;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring 8x2mm aus 925er Silber, rundherum komplett mit Zirkonia besetzt;Anhänger, Taufring Zirkonia, Silber 925;Taufring ist rundherum komplett mit Zirkonias besetzt. Innendurchmesser 5mm
 91288;;kleiner Anhänger mit Zirkonia weiß, glänzend, auf der Rückseite zwei feste Ösen zum Durchziehen einer Kette;Anhänger, matt-glänzend, Zirkonia, 925;Zirkonia
 91289;;hochwertig gearbeitetes Creolenpaar mit Klappscharnier in bester Juwelierqualität, hochglänzend mit Zirkonia lavendel, Oberfläche anlaufgeschützt rhodiniert;Creole, Zirkonia lavendel, Silber 925;mit Klappscharnier, Oberfläche anlaufgeschützt rhodiniert, Stein Zirkonia-lavendel (helles lila)
 91291;;Ohrstecker aus drei ineinander verschlungenen Halbmonden, Oberfläche matt und diamantiert, Ein dezentes Schmuckstück für jeden Anlass!;Stecker mattiert mit Schliff, Silber 925;drei ineinander verschlungene Ecken, matt und diamantiert
@@ -1517,7 +1499,7 @@ itemno;title;description;gallay-title;gallay-description
 91337;;;Brisur, lächelnder Frosch, Silber 925;Maul vom Frosch rot lackiert
 91338;;Ein putziges Schmuckstück nicht nur für Katzenliebhaber!;Stecker, stilisierte Katze, Silber 925;-
 91339;;;Anhänger Biene mit Zirkonia, Silber 925;im Flügel sitzt ein kleiner pinkfarbener Zirkonia, teilmattiert, Auge schwarz lackiert
-91340;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, im Ring hängt ein Anhänger Geburtsuhr zum Eingravieren der Geburtszeit, auch als Kettenanhänger zu tragen, Gesamtlänge mit Öse 22mm;Anhänger Taufring Geburtsuhr Silber 925;geeignet zur Taufe, Taufanhänger mit kleinem Zirkonia, Abmessung der Uhr (ohne Zeiger) 6mm, zum Eingravieren der Geburtszeit
+91340;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, im Ring hängt ein Anhänger Geburtsuhr zum Eingravieren der Geburtszeit, auch als Kettenanhänger zu tragen, Gesamtlänge mit Öse 22mm;Anhänger Taufring Geburtsuhr Silber 925;geeignet zur Taufe, Taufanhänger mit kleinem Zirkonia, Abmessung der Uhr (ohne Zeiger) 6mm, zum Eingravieren der Geburtszeit, Innendurchmesser vom Ring 10mm
 91342;;toller Silberanhänger Kruzifix mit Inschrift, Oberfläche hochglänzend, Ein besonderer Eyecatcher als Ausdruck der Religiösität.;Anhänger, Kreuz mit Jesus, Silber 925;-
 91343;;;Stecker Zirkonia rhodiniert Silber 925;Hochwertiger Ohrstecker in 925er Silber mit vielen kleinen gefassten Zirkonias, matt-glänzend, Oberfläche anlaufgeschützt rhodiniert
 91344;;wunderschöner Ohrstecker mit Glasstein aqua mit Schliff, das modische I-Tüpfelchen zur angesagten Jeansmode.;Stecker, rund, Stein aqua, 925;Kristall-Glas aqua
@@ -1638,7 +1620,7 @@ itemno;title;description;gallay-title;gallay-description
 91440t;;Kettenanhänger Buchstabe -T-, Oberfläche glänzend und matt, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe T, Silber 925;Oberfläche glänzend-matt
 91440u;;Kettenanhänger Buchstabe -U-, Oberfläche glänzend und matt, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe U, Silber 925;Oberfläche glänzend-matt
 91440v;;Kettenanhänger Buchstabe -V-, Oberfläche glänzend und matt, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe V, Silber 925;Oberfläche glänzend-matt
-91440w;;Kettenanhänger Buchstabe -W-, Oberfläche glänzend und matt, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe W, Silber 925;Oberfläche glänzend-matt
+91440w;;Kettenanhänger Buchstabe -W-, Oberfläche glänzend und matt, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe W, Silber 925;Oberfläche glänzend und matt
 91440y;;Kettenanhänger Buchstabe -Y-, Oberfläche glänzend und matt, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe Y, Silber 925;Oberfläche glänzend-matt
 91440z;;Kettenanhänger Buchstabe -Z-, Oberfläche glänzend und matt, Stilvoller Anhänger mit dem die Trägerin oder der Träger seine Initialien präsentieren kann. Ein wunderschönes Geschenk zur Geburt, Taufe, Geburtstag oder einfach mal als kleine Überraschung zwischendurch.;Anhänger, Buchstabe Z, Silber 925;Oberfläche glänzend-matt
 91441;;Wunderschöner Partneranhänger in feinster Juwelierqualität, ein Symbol tiefer Freundschaft und Liebe ähnlich den Teilen eines Puzzlespieles, teilbarer Silberanhänger mit 2 Ösen, auf Hochglanz poliert, mit männlich/männlich-Zeichen (für homosexuelle Paare), die Rückseite ist glatt und bietet Fläche für eine kleine Gravur;Anhänger, Doppelanhänger Silber 925;teilbarer Freundschaftsanhänger mit 2 Ösen, glänzend, männlich/männlich-Zeichen (für homosexuelle Paare), ähnlich den Teilen eines Puzzlespiels
@@ -1933,7 +1915,6 @@ itemno;title;description;gallay-title;gallay-description
 91793;;Stilvoller bicolor Ohrstecker mit Sternen aus 925er Silber, Der kleine vergoldete Stern sitzt auf dem großen Stern als ob er abspringen möchte! Ein tolles Schmuckstück für viele Gelegenheiten!;Stecker, Stern bicolor, Silber 925;innerer kleiner Stern vergoldet
 91797;;hochwertig gearbeitete Scharniercreole (Klappcreole) in feinster Juwelierqualität, aus 925er Silber und vergoldet, Blickfang bilden die jeweils 5 eingearbeiteten kleinen Zirkonia an der Vorderseite, ein wunderschönes Geschenk für einen besonderen Anlass, auch toll als Brautschmuck;Creole, vergoldet, Zirkonia, Silber 925;Scharniercreole (Klappcreole), vergoldet
 91799;;hochwertiger Ohrclip mit Stecker, besonderer Eyecatcher ist ein rauchblauer Glasstein, eingerahmt von 18 kleinen Glassteinen kristall, Zeitlos schöner Schmuck mit dezent funkelnden Steinen.;Stecker, 3x blau-schwarz, Silber 925;-
-91802;;;Anhänger, Feder, si-hell glzd, 925;-
 91803;;Sind sie nicht süß? Diese beiden niedlichen Entchen am Ohr eines kleinen Mädchens, EINFACH PERFEKT! Angesagte Kinderbrisur aus 925er Silber mit kleiner Ente, 8x7mm groß, die vordere Oberfläche ist gelb-rot-schwarz und weiß lackiert, die Rückseite ist hohl.;Brisur, kleine gelbe Ente, Silber 925;Ente 8x7mm, gelb-rot-schwarz-weiß lackiert
 91805;;;Anhänger, Herz mit Zirkonia, Silber 925;matt-glänzend, Rand  mit Tiefenstruktur
 91807;;;Brisur, matt-glänzend, Silber 925;-
@@ -2548,7 +2529,7 @@ itemno;title;description;gallay-title;gallay-description
 92705;;Süßer Ohrstecker Wurm mit lachendem Gesicht als modisches I-Tüpfelchen für kleine Mädchen. Augen schwarz und rot lackiert, Oberfläche matt;Stecker, Wurm, Silber 925;matt-glänzend, Augen schwarz
 92706;;;Anhänger, Schildkröte, Silber 925;matt-glänzend, massiv beidseitig geformt
 92707;;Wunderschöner Silber-Stecker nicht nur für Delfinliebhaber! Putziges springendes Delfin-Pärchen, das Obere ist glatt, das Untere ist glänzend, Der Delfin verkörpert Kraft, Sicherheit, Geborgenheit und Lebensfreude und gilt als der Freund des Menschen.;Stecker, Delfin-Pärchen, Silber 925;matt-glänzend
-92709;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, im Ring hängt ein Herzanhänger mit einem kleinen Engel als Schutzsymbol, auch als Kettenanhänger zu tragen, Gesamtlänge mit Öse 23mm;Anhänger, Taufring mit Herz, Silber 925;Taufring mit Zirkonia und eingehängtem Herz mit Engelmotiv, Gesamtlänge 23mm
+92709;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, im Ring hängt ein Herzanhänger mit einem kleinen Engel als Schutzsymbol, auch als Kettenanhänger zu tragen, Gesamtlänge mit Öse 23mm;Anhänger, Taufring mit Herz, Silber 925;Taufring mit Zirkonia und eingehängtem Herz mit Engelmotiv 6mm, Innendurchmesser vom Ring 10mm
 92711;;hochwertig gearbeiteter Ohrhänger in bester Juwelierqualität, matt und glänzend, auf jeder Seite 3 gefasste Zirkonia;Brisur Zirkonia matt-glänzend Silber 925;sehr sauber verarbeiter Ohrring mit Klappbrisur und je 3 kleinen gefassten Zirkonias
 92720;;sehr hochwertiges Schmuckstück in feinster Juwelierqualität, Anhänger wie ein Tuch 38x25mm, 9-reihig mit dunkelroten gefassten Glassteinen, anlaufgeschützt rhodiniert, Ein besonderes Geschenk für eine modebewusste DAME.;Anhänger, Steine dkl-rot Silber 925;-
 92722;;wunderschönes Set a 2 Silberanhänger in feinster Qualität, beide Anhänger 25x15mm, ein Exemplar mit Glasstein rot und eins mit Glasstein topas, seitlich mit kleinen Glassteinen kristall besetzt, anlaufgeschützt rhodiniert;2 Anhänger, 1x rot, 1x topas, Silber 925;Verkauf nur als Set á 2 Stck
@@ -2977,7 +2958,7 @@ itemno;title;description;gallay-title;gallay-description
 93110;;Warum nicht einmal ein Herz verschenken? Silberanhänger Herz ohne Öse, die Kette wird direkt durch das Herz gezogen;Anhänger 15mm Einhänger-Herz Silber 925;zum Einhängen z.B. in Schlangenketten, ohne extra Öse!
 93111;;Ein wunderschönes Geschenk zum Geburtstag, Schuleinweihung oder einfach als kleine Überraschung, das kleine Silberherz bildet den Rahmen für einen niedlichen Schmetterling, die Flügel sind pink und blau lackiert;Anhänger, Herz/Schmetterling, Silber 925;lackiert pink-blau, ca. 11mm, Kinderschmuck
 93112;;Ein tolles Geschenk zum Geburtstag, Schuleinweihung oder einfach als kleine Überraschung, das kleine Herz ist pink lackiert mit einem kleinen Zirkonia;Anhänger, Herz-pink Zirkonia, Silber 925;lackiert pink, Kinderschmuck
-93113;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, leicht kantig;Anhänger Taufring, Zirkonia Silber 925;mehr kantige Form
+93113;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, leicht kantig;Anhänger Taufring, Zirkonia Silber 925;mehr kantige Form, Innendurchmesser 9mm
 93114;;Ein wunderschönes Geschenk zur Geburt eines Kindes oder als Patengeschenk! kleiner Taufring mit Zirkonia, leicht runde Form;Anhänger Taufring, Zirkonia Silber 925;mehr abgerundete Form
 93115-42;;;Kinderring Herz-pink Zirkonia Silber 925;-
 93115-44;;;Kinderring Herz-pink Zirkonia Silber 925;-
@@ -3315,7 +3296,7 @@ itemno;title;description;gallay-title;gallay-description
 93440;;;Anhänger, Perle mit Zirkonia, Silber 925;grau-schimmernde Süßwasserzuchtperle ca. 7mm, kleiner Zirkonia auf der Schlaufe, Oberfläche anlaufgeschützt rhodiniert
 93441;;;Stecker, Perle mit Zirkonia, Silber 925;Süßwasserzuchtperle ca. 6mm weiß mit Zirkonia weiß, Oberfläche anlaufgeschützt rhodiniert
 93442;;;Anhänger, Herz u. Zuchtperle, Silber 925;Herz matt-glänzend, Süßwasserperle ca. 9mm, Oberfläche anlaufgeschützt rhodiniert
-93443;;;Creole 17x5mm rose vergoldet, Silber 925;Klappcreole ca. 17x5mm kantig, glänzend
+93443;;;Creole 17x5mm rosé vergoldet, Silber 925;Klappcreole ca. 17x5mm kantig, glänzend
 93444;;;Creole mit Delfin, bicolor, Silber 925;Delfin mattvergoldet, Oberfläche anlaufgeschützt rhodiniert
 93445;;;Creole rotvergoldet Zirkonia, Silber 925;mit Klappscharnier, teilweise rotvergoldet, Oberfläche anlaufgeschützt rhodiniert
 93446;;;Creole, Glasstein hellblau, Silber 925;Klappcreole, glänzend, Oberfläche anlaufgeschützt rhodiniert
@@ -3331,12 +3312,6 @@ itemno;title;description;gallay-title;gallay-description
 93456;;;Creole, Zirkonia, rhodiniert Silber 925;bicolor, Klappcreole mit mehreren Zirkonias, glänzend, teilweise rot-vergoldet, Oberfläche anlaufgeschützt rhodiniert
 93457;;;Creole, rotvergoldet, Silber 925;Klappcreole, Vorderseite glänzend, Rückseite matt gebürstet, Silber 925, vergoldet-Rotgold
 93458;;;Creole, spitzoval, vergoldet, Silber 925;Klappcreole, matt, Silber 925, vergoldet-Rotgold
-93460;;;Anhänger, Kreuz diamantiert, Silber 925;
-93461;;;Anhänger, Kreuz diamantiert, Silber 925;
-93462;;;Anhänger, Gravurplatte, Silber 925;
-93463;;;Anhänger, Gravurplatte, Silber 925;
-93464;;;Anhänger, Herz mit 2 Ösen, Silber 925;
-93465;;;Anhänger, Kreuz diamantiert, Silber 925;
 94000;;;Anhänger bicolor, rhodiniert, Silber 925;Blumenmotiv, doppellagig, oberer Teil silberglänzend mit 6 Zirkonias, untere Lage 1 Micron rotgold-vergoldet, Oberfläche anlaufgeschützt rhodiniert
 94001;;;Anhänger Kreuz mit Zirkonias, Silber 925;glänzend, Kreuz in der Mitte mit großen Zirkonias, Rand mit kleineren Zirkonias, Oberfläche anlaufgeschützt rhodiniert
 94002;;;Anhänger, rund mit Zirkonias, Silber 925;Oberfläche anlaufgeschützt rhodiniert
